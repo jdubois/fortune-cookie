@@ -6,6 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+import org.springframework.aot.hint.RuntimeHints;
+import org.springframework.aot.hint.RuntimeHintsRegistrar;
+import org.springframework.context.annotation.ImportRuntimeHints;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -15,6 +18,7 @@ import jakarta.annotation.PostConstruct;
 
 @RestController
 @RequestMapping("/api/fortunes")
+@ImportRuntimeHints(FortuneController.FortuneHints.class)
 public class FortuneController {
 
     private final List<String> fortunes = new ArrayList<>();
@@ -40,4 +44,12 @@ public class FortuneController {
     }
 
     public record Fortune(String message) {}
+
+    static class FortuneHints implements RuntimeHintsRegistrar {
+        @Override
+        public void registerHints(RuntimeHints hints, ClassLoader classLoader) {
+            hints.resources().registerPattern("fortunes.txt");
+        }
+    }
 }
+
