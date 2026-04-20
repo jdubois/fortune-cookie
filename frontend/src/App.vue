@@ -106,9 +106,7 @@ onMounted(() => {
       <div class="roaster-footer">
         <span>🔥 Généré par GitHub Copilot CLI avec Claude Opus 4.7.</span>
         <span class="sep">·</span>
-        <a href="https://www.devoxx.fr/" target="_blank" rel="noopener noreferrer">devoxx.fr</a>
-        <span class="sep">·</span>
-        <a href="https://m.devoxx.com/events/devoxxfr2026/talks" target="_blank" rel="noopener noreferrer">Agenda complet</a>
+        <a href="https://github.com/jdubois/fortune-cookie" target="_blank" rel="noopener noreferrer">GitHub repository</a>
       </div>
     </div>
   </div>
