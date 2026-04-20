@@ -1,0 +1,81 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(135deg, #fceabb 0%, #f8b500 100%);
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
+
+.app-shell {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+}
+
+.cookie-card {
+  max-width: 520px;
+  width: 100%;
+  background: #fffaf2;
+  border: none;
+  border-radius: 1.5rem;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.cookie-header {
+  background: linear-gradient(135deg, #8b4513 0%, #d2691e 100%);
+  color: #fff;
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+
+.cookie-emoji {
+  font-size: 3.5rem;
+  display: inline-block;
+  animation: wobble 2s ease-in-out infinite;
+}
+
+@keyframes wobble {
+  0%, 100% { transform: rotate(-8deg); }
+  50%      { transform: rotate(8deg); }
+}
+
+.cookie-body {
+  padding: 2rem 1.75rem;
+  text-align: center;
+}
+
+.fortune-message {
+  font-size: 1.35rem;
+  font-style: italic;
+  color: #4a2c12;
+  min-height: 5rem;
+  line-height: 1.5;
+  transition: opacity 0.3s ease;
+}
+
+.fortune-message.fade {
+  opacity: 0;
+}
+
+.cookie-btn {
+  background: linear-gradient(135deg, #d2691e 0%, #8b4513 100%);
+  border: none;
+  color: white;
+  font-weight: 600;
+  padding: 0.75rem 1.75rem;
+  border-radius: 999px;
+  box-shadow: 0 6px 18px rgba(139, 69, 19, 0.35);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.cookie-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 22px rgba(139, 69, 19, 0.45);
+  color: white;
+}
+
+.cookie-btn:active {
+  transform: translateY(0);
+}
