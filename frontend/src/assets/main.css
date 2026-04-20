@@ -1,8 +1,21 @@
+:root {
+  --dvx-red: #e4002b;
+  --dvx-red-dark: #b00020;
+  --dvx-orange: #ff6b1a;
+  --dvx-black: #0a0a0f;
+  --dvx-ink: #1a1a23;
+  --dvx-cream: #fdf7ef;
+}
+
 body {
   min-height: 100vh;
   margin: 0;
-  background: linear-gradient(135deg, #fceabb 0%, #f8b500 100%);
-  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  background:
+    radial-gradient(circle at 15% 10%, rgba(255, 107, 26, 0.25), transparent 45%),
+    radial-gradient(circle at 85% 90%, rgba(228, 0, 43, 0.3), transparent 50%),
+    linear-gradient(135deg, #0a0a0f 0%, #1a1a23 60%, #2a0a12 100%);
+  color: var(--dvx-cream);
+  font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 }
 
 .app-shell {
@@ -14,26 +27,80 @@ body {
 }
 
 .cookie-card {
-  max-width: 520px;
+  max-width: 560px;
   width: 100%;
-  background: #fffaf2;
+  background: #ffffff;
   border: none;
-  border-radius: 1.5rem;
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+  border-radius: 1.25rem;
+  box-shadow:
+    0 30px 80px rgba(228, 0, 43, 0.25),
+    0 10px 30px rgba(0, 0, 0, 0.45);
   overflow: hidden;
 }
 
 .cookie-header {
-  background: linear-gradient(135deg, #8b4513 0%, #d2691e 100%);
+  position: relative;
+  background:
+    linear-gradient(135deg, var(--dvx-black) 0%, var(--dvx-ink) 55%, var(--dvx-red-dark) 100%);
   color: #fff;
-  padding: 2rem 1.5rem;
+  padding: 2rem 1.5rem 2.25rem;
   text-align: center;
+  overflow: hidden;
+}
+
+.cookie-header::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 80% 20%, rgba(255, 107, 26, 0.35), transparent 45%),
+    radial-gradient(circle at 10% 90%, rgba(228, 0, 43, 0.35), transparent 40%);
+  pointer-events: none;
+}
+
+.brand-row {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.35rem 0.9rem 0.35rem 0.6rem;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(4px);
+  margin-bottom: 0.5rem;
+}
+
+.brand-x {
+  display: inline-grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 0.4rem;
+  background: linear-gradient(135deg, var(--dvx-red) 0%, var(--dvx-orange) 100%);
+  color: #fff;
+  font-weight: 900;
+  font-family: "Inter", sans-serif;
+  font-size: 1.05rem;
+  line-height: 1;
+  transform: skew(-6deg);
+  box-shadow: 0 4px 12px rgba(228, 0, 43, 0.55);
+}
+
+.brand-text {
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  color: #fff;
 }
 
 .cookie-emoji {
+  position: relative;
   font-size: 3.5rem;
   display: inline-block;
   animation: wobble 2s ease-in-out infinite;
+  filter: drop-shadow(0 6px 10px rgba(228, 0, 43, 0.45));
 }
 
 @keyframes wobble {
@@ -41,41 +108,104 @@ body {
   50%      { transform: rotate(8deg); }
 }
 
+.cookie-header h1 {
+  position: relative;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.cookie-header p {
+  position: relative;
+  font-size: 0.9rem;
+}
+
 .cookie-body {
-  padding: 2rem 1.75rem;
+  padding: 2rem 1.75rem 1.5rem;
   text-align: center;
+  background: var(--dvx-cream);
 }
 
 .fortune-message {
-  font-size: 1.35rem;
+  font-size: 1.3rem;
   font-style: italic;
-  color: #4a2c12;
-  min-height: 5rem;
-  line-height: 1.5;
+  color: var(--dvx-ink);
+  min-height: 5.5rem;
+  line-height: 1.55;
   transition: opacity 0.3s ease;
+  margin-bottom: 0.75rem;
 }
 
 .fortune-message.fade {
   opacity: 0;
 }
 
-.cookie-btn {
-  background: linear-gradient(135deg, #d2691e 0%, #8b4513 100%);
-  border: none;
-  color: white;
-  font-weight: 600;
-  padding: 0.75rem 1.75rem;
-  border-radius: 999px;
-  box-shadow: 0 6px 18px rgba(139, 69, 19, 0.35);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+.fortune-link {
+  margin: 0;
+  min-height: 1.5rem;
 }
 
-.cookie-btn:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 10px 22px rgba(139, 69, 19, 0.45);
+.fortune-link a {
+  color: var(--dvx-red);
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(228, 0, 43, 0.4);
+  padding-bottom: 1px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.fortune-link a:hover {
+  color: var(--dvx-orange);
+  border-bottom-color: var(--dvx-orange);
+}
+
+.cookie-btn {
+  background: linear-gradient(135deg, var(--dvx-red) 0%, var(--dvx-orange) 100%);
+  border: none;
   color: white;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 0.75rem 1.75rem;
+  border-radius: 999px;
+  box-shadow: 0 8px 20px rgba(228, 0, 43, 0.4);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.cookie-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 26px rgba(228, 0, 43, 0.5);
+  color: white;
+  filter: brightness(1.05);
 }
 
 .cookie-btn:active {
   transform: translateY(0);
+}
+
+.cookie-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.cookie-footer {
+  background: var(--dvx-cream);
+  border-top: 1px solid rgba(10, 10, 15, 0.08);
+  padding: 0.75rem 1rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--dvx-ink);
+}
+
+.cookie-footer a {
+  color: var(--dvx-red);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cookie-footer a:hover {
+  color: var(--dvx-orange);
+}
+
+.cookie-footer .sep {
+  margin: 0 0.5rem;
+  opacity: 0.4;
 }

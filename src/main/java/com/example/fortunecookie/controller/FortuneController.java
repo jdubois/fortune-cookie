@@ -21,7 +21,7 @@ import jakarta.annotation.PostConstruct;
 @ImportRuntimeHints(FortuneController.FortuneHints.class)
 public class FortuneController {
 
-    private final List<String> fortunes = new ArrayList<>();
+    private final List<Fortune> fortunes = new ArrayList<>();
     private final Random random = new Random();
 
     @PostConstruct
@@ -31,8 +31,16 @@ public class FortuneController {
             var content = new String(in.readAllBytes(), StandardCharsets.UTF_8);
             for (String line : content.split("\\R")) {
                 String trimmed = line.trim();
-                if (!trimmed.isEmpty()) {
-                    fortunes.add(trimmed);
+                if (trimmed.isEmpty() || trimmed.startsWith("#")) {
+                    continue;
+                }
+                int sep = trimmed.indexOf('|');
+                if (sep >= 0) {
+                    String message = trimmed.substring(0, sep).trim();
+                    String url = trimmed.substring(sep + 1).trim();
+                    fortunes.add(new Fortune(message, url.isEmpty() ? null : url));
+                } else {
+                    fortunes.add(new Fortune(trimmed, null));
                 }
             }
         }
@@ -40,10 +48,10 @@ public class FortuneController {
 
     @GetMapping("/random")
     public Fortune random() {
-        return new Fortune(fortunes.get(random.nextInt(fortunes.size())));
+        return fortunes.get(random.nextInt(fortunes.size()));
     }
 
-    public record Fortune(String message) {}
+    public record Fortune(String message, String url) {}
 
     static class FortuneHints implements RuntimeHintsRegistrar {
         @Override
