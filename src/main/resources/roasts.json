@@ -1,0 +1,1801 @@
+[
+  {
+    "id": 2704,
+    "title": "The Hive : coder un monolithe modulaire prêt pour les microservices",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2704/the-hive-coder-un-monolithe-modulaire-prt-pour-les-microservices",
+    "lang": "fr",
+    "roast": "Monolithe modulaire, microservices, monolithe distribué… à Devoxx on change d'avis sur l'archi aussi vite que Spring change de numéro de version."
+  },
+  {
+    "id": 2708,
+    "title": "Comment concevoir et tester un site accessible ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2708/comment-concevoir-et-tester-un-site-accessible-",
+    "lang": "fr",
+    "roast": "Un site accessible, c'est surtout un site qu'on n'a pas développé un vendredi soir en pensant « on s'en occupera plus tard »."
+  },
+  {
+    "id": 2713,
+    "title": "Lorsqu'un simple bug réseau vous emmène dans les entrailles de Linux...",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2713/lorsquun-simple-bug-rseau-vous-emmne-dans-les-entrailles-de-linux",
+    "lang": "fr",
+    "roast": "Spoiler : le bug réseau n'était ni dans le réseau, ni dans le bug. C'était DNS. C'est toujours DNS."
+  },
+  {
+    "id": 2717,
+    "title": "API Security 2026 : Comment éviter de finir sur Have I Been Pwned ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2717/api-security-2026-comment-viter-de-finir-sur-have-i-been-pwned-",
+    "lang": "fr",
+    "roast": "API Security 2026 : parce qu'en 2025 on avait promis de faire mieux qu'en 2024, et on a juste rajouté un rate-limiter."
+  },
+  {
+    "id": 2719,
+    "title": "Jujutsu, la cerise sur le git, oh !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2719/jujutsu-la-cerise-sur-le-git-oh-",
+    "lang": "fr",
+    "roast": "Jujutsu : pour les développeurs qui trouvaient Git trop simple et mercurial trop mainstream."
+  },
+  {
+    "id": 2720,
+    "title": "MCP en pratique : une application pour tout comprendre",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2720/mcp-en-pratique-une-application-pour-tout-comprendre",
+    "lang": "fr",
+    "roast": "MCP : le protocole qui transforme chaque fonction Python en micro-service, juste pour que l'IA puisse l'appeler mal."
+  },
+  {
+    "id": 2723,
+    "title": "Question pour un cluster Kubernetes : Quiz sur Kubernetes & ses concepts",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2723/question-pour-un-cluster-kubernetes-quiz-sur-kubernetes-ses-concepts",
+    "lang": "fr",
+    "roast": "Un quiz Kubernetes : si tu rates, tu passes en prod. Si tu gagnes, tu passes aussi en prod — mais avec un dashboard."
+  },
+  {
+    "id": 2724,
+    "title": "JCStress : Plonger au cœur de la concurrence et des systèmes distribués en Java",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2724/jcstress-plonger-au-cur-de-la-concurrence-et-des-systmes-distribus-en-java",
+    "lang": "fr",
+    "roast": "JCStress : parce que vos tests unitaires qui passent en local passent aussi en prod. Jusqu'à la huitième core."
+  },
+  {
+    "id": 2729,
+    "title": "Kafka 4, fantastique ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2729/kafka-4-fantastique-",
+    "lang": "fr",
+    "roast": "Kafka 4 : maintenant avec moins de ZooKeeper, mais toujours autant de partitions mal dimensionnées à 3h du matin."
+  },
+  {
+    "id": 2738,
+    "title": "Un sprint à Tokyo : voyage Agile au Japon",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2738/un-sprint-tokyo-voyage-agile-au-japon",
+    "lang": "fr",
+    "roast": "Un sprint à Tokyo, c'est comme un sprint à Paris, mais avec des rétrospectives qui commencent à l'heure."
+  },
+  {
+    "id": 2739,
+    "title": "Limits, Requests, QoS, PriorityClasses, démystifions le scheduling dans K8s !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2739/limits-requests-qos-priorityclasses-dmystifions-le-scheduling-dans-k8s-",
+    "lang": "fr",
+    "roast": "Limits, Requests, QoS : trois mots qui décident si votre pod part en OOMKilled ou en burn-out managérial."
+  },
+  {
+    "id": 2740,
+    "title": "Handicap invisible : l’accessibilité commence dans les réunions (et l'IA aide)",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2740/handicap-invisible-laccessibilit-commence-dans-les-runions-et-lia-aide",
+    "lang": "fr",
+    "roast": "Promis, l'IA rend les réunions inclusives. Enfin, surtout les réunions où personne ne parle parce que tout le monde regarde son transcript."
+  },
+  {
+    "id": 2742,
+    "title": "Debugging with IntelliJ IDEA",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2742/debugging-with-intellij-idea",
+    "lang": "en",
+    "roast": "Le debugger d'IntelliJ : l'outil le plus puissant que 80% des développeurs utilisent uniquement pour mettre des println() bien placés."
+  },
+  {
+    "id": 2745,
+    "title": "Développer avec l'IA : et si c'était aussi simple qu'ajouter une librairie ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2745/dvelopper-avec-lia-et-si-ctait-aussi-simple-quajouter-une-librairie-",
+    "lang": "fr",
+    "roast": "« Aussi simple qu'ajouter une librairie » — phrase également prononcée avant d'intégrer log4j, moment.js, et left-pad."
+  },
+  {
+    "id": 2749,
+    "title": "Conception d'une IA de jeu vidéo avec l'apprentissage par renforcement",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/2749/conception-dune-ia-de-jeu-vido-avec-lapprentissage-par-renforcement",
+    "lang": "fr",
+    "roast": "Le reinforcement learning au jeu vidéo : après 4 millions d'épisodes, l'agent a enfin compris qu'il ne fallait pas sauter dans le vide. Un junior aurait mis deux essais."
+  },
+  {
+    "id": 4001,
+    "title": "Concevons nous toujours des applications pour les humains ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4001/concevons-nous-toujours-des-applications-pour-les-humains-",
+    "lang": "fr",
+    "roast": "Concevoir pour les humains, c'est vieux jeu. Maintenant on conçoit pour les LLMs, et on espère que l'humain suivra."
+  },
+  {
+    "id": 4006,
+    "title": "Understanding Prompt Injection - Techniques, Challenges, and Advanced Escalation",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4006/understanding-prompt-injection-techniques-challenges-and-advanced-escalation",
+    "lang": "en",
+    "roast": "Prompt injection : la SQL injection de 2026, mais sans ORM pour nous sauver."
+  },
+  {
+    "id": 4007,
+    "title": "The Hidden Security Hazards in Your Java Stack",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4007/the-hidden-security-hazards-in-your-java-stack",
+    "lang": "en",
+    "roast": "Hidden security hazards in your Java stack : classpath hell, mais en version CVE-2025-XXXX."
+  },
+  {
+    "id": 4008,
+    "title": "Women in software engineering: what gives?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4008/women-in-software-engineering-what-gives-",
+    "lang": "en",
+    "roast": "« Women in software engineering: what gives? » — le talk où l'on rappelle que la tech a été inventée par Ada Lovelace, pas par un mec en hoodie."
+  },
+  {
+    "id": 4009,
+    "title": "ClaudeCode.proTips(30, minutes=30).run()",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4009/claudecodeprotips30-minutes30run",
+    "lang": "fr",
+    "roast": "30 pro tips en 30 minutes sur Claude Code. Soit 1 minute par tip. Soit exactement le temps d'en oublier le précédent."
+  },
+  {
+    "id": 4015,
+    "title": "Refactorer sans tout casser: anatomie des patterns de modernisation incrémentale",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4015/refactorer-sans-tout-casser-anatomie-des-patterns-de-modernisation-incrmentale",
+    "lang": "fr",
+    "roast": "Refactorer sans tout casser : méthode testée et approuvée depuis 1999, appliquée avec succès dans 3% des bases de code du monde."
+  },
+  {
+    "id": 4018,
+    "title": "Détectives de la prod : résoudre l’enquête avant le crash",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4018/dtectives-de-la-prod-rsoudre-lenqute-avant-le-crash",
+    "lang": "fr",
+    "roast": "Détectives de la prod : Sherlock Holmes avait Watson, vous avez Grafana, Loki, Tempo et un dashboard qui freeze quand vous en avez besoin."
+  },
+  {
+    "id": 4019,
+    "title": "Et si écrire du SQL redevenait cool ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4019/et-si-crire-du-sql-redevenait-cool-",
+    "lang": "fr",
+    "roast": "Écrire du SQL redevenu cool ? Les ORM vous regardent avec méfiance, et les NoSQL vous attendent au coin du semestre."
+  },
+  {
+    "id": 4020,
+    "title": "Vous pensiez que la dette technique était le pire? Voici la dette de conception!",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4020/vous-pensiez-que-la-dette-technique-tait-le-pire-voici-la-dette-de-conception",
+    "lang": "fr",
+    "roast": "Dette technique vs dette de conception : pour une fois qu'on parle de finance et que tout le monde est d'accord que c'est une mauvaise idée."
+  },
+  {
+    "id": 4025,
+    "title": "Histoire de l'informatique au féminin",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4025/histoire-de-linformatique-au-fminin",
+    "lang": "fr",
+    "roast": "L'histoire de l'informatique au féminin : un rappel que sans les femmes, vous codeiez encore sur carte perforée en pensant avoir inventé le concept."
+  },
+  {
+    "id": 4028,
+    "title": "Spring Native et Boot 4.0: Où en sommes-nous ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4028/spring-native-et-boot-40-o-en-sommesnous-",
+    "lang": "fr",
+    "roast": "Spring Native, Boot 4 : le framework qui compile en 20 secondes ce qu'une application Go compile en 0.2s. Mais avec plus d'annotations."
+  },
+  {
+    "id": 4029,
+    "title": "Maternité dans la tech : Du témoignage à l’action",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4029/maternit-dans-la-tech-du-tmoignage-laction",
+    "lang": "fr",
+    "roast": "La maternité dans la tech : parce que concilier un build Maven et un bébé qui pleure, c'est déjà le vrai agile."
+  },
+  {
+    "id": 4033,
+    "title": "CVE vs CWE : de la correction de failles à l'éradication des causes profondes",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4033/cve-vs-cwe-de-la-correction-de-failles-lradication-des-causes-profondes",
+    "lang": "fr",
+    "roast": "CVE vs CWE : l'un raconte vos échecs, l'autre explique pourquoi vous allez recommencer."
+  },
+  {
+    "id": 4034,
+    "title": "Error Prone : L'arme secrète de Google pour des lignes de code sans bug",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4034/error-prone-larme-secrte-de-google-pour-des-lignes-de-code-sans-bug",
+    "lang": "fr",
+    "roast": "Error Prone : l'outil qui vous dit que votre code est faux, mais qui ne peut rien pour la PR de votre collègue."
+  },
+  {
+    "id": 4038,
+    "title": "Le Frontend mérite aussi du monitoring !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4038/le-frontend-mrite-aussi-du-monitoring-",
+    "lang": "fr",
+    "roast": "Monitorer le frontend : radical idea — si ton utilisateur voit une page blanche, Datadog ne le sait pas forcément."
+  },
+  {
+    "id": 4042,
+    "title": "Automatisation intelligente en temps réel : quand Kafka rencontre n8n et l’IA",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/4042/automatisation-intelligente-en-temps-rel-quand-kafka-rencontre-n8n-et-lia",
+    "lang": "fr",
+    "roast": "Kafka + n8n + IA en temps réel : trois buzzwords, deux migraines, un incident post-mortem."
+  },
+  {
+    "id": 5554,
+    "title": "Autorisation avec Spring Security: permissions, roles et plus encore",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5554/autorisation-avec-spring-security-permissions-roles-et-plus-encore",
+    "lang": "fr",
+    "roast": "Spring Security : 47 classes, 12 interfaces, 3 filtres et une configuration qu'on copie-colle depuis Stack Overflow en 2017."
+  },
+  {
+    "id": 5555,
+    "title": "Serveurs MCP sécurisés avec Spring AI",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5555/serveurs-mcp-scuriss-avec-spring-ai",
+    "lang": "fr",
+    "roast": "Des serveurs MCP sécurisés, pour que votre IA ne puisse pas faire `rm -rf` qu'avec votre consentement explicite."
+  },
+  {
+    "id": 5557,
+    "title": "Bootiful Spring Boot 4!",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5557/bootiful-spring-boot-4",
+    "lang": "en",
+    "roast": "Bootiful Spring Boot 4 : comme Bootiful Spring Boot 3, mais avec trois nouveaux starters dont deux sont déjà deprecated."
+  },
+  {
+    "id": 5571,
+    "title": "De 1 000 à 5 000 utilisateurs : scaler GitLab sans (trop) souffrir.",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5571/de-1-000-5-000-utilisateurs-scaler-gitlab-sans-trop-souffrir",
+    "lang": "fr",
+    "roast": "Scaler GitLab de 1 000 à 5 000 users : c'est surtout scaler le nombre de pipelines bloqués à 97% sans raison apparente."
+  },
+  {
+    "id": 5573,
+    "title": "🐳 Docker Deep Dive : Apprends à dompter les baleines !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5573/-docker-deep-dive-apprends-dompter-les-baleines-",
+    "lang": "fr",
+    "roast": "Docker Deep Dive : parce qu'après 10 ans, on n'est toujours pas d'accord sur la différence entre une image et un conteneur."
+  },
+  {
+    "id": 5582,
+    "title": "Créer son propre Jeu de Rôle en Agentic AI avec Strands Agents",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5582/crer-son-propre-jeu-de-rle-en-agentic-ai-avec-strands-agents",
+    "lang": "fr",
+    "roast": "Un JdR avec Strands Agents : les agents échouent tous leurs jets de sauvegarde, mais ils le font en parallèle avec Bedrock."
+  },
+  {
+    "id": 5583,
+    "title": "Neurodiversité & Tech : vos “profils atypiques” sont votre plus grande force",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5583/-neurodiversit-tech-vos-profils-atypiques-sont-votre-plus-grande-force",
+    "lang": "fr",
+    "roast": "Profils atypiques dans la tech : en vrai, un dev « neurotypique » qui passe 8h à chasser un off-by-one, je ne sais pas qui c'est."
+  },
+  {
+    "id": 5586,
+    "title": "🤖 Apprendre à notre IA à ... apprendre 🧠",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5586/-apprendre-notre-ia-apprendre-",
+    "lang": "fr",
+    "roast": "Apprendre à l'IA à apprendre : c'est beau, mais on n'a toujours pas appris à la prod à ne pas crasher le vendredi soir."
+  },
+  {
+    "id": 5587,
+    "title": "Speechless Live @ Devoxx",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5587/speechless-live-devoxx-",
+    "lang": "fr",
+    "roast": "Speechless : un talk sans slide, sans plan, sans pitié. Autrement dit, le quotidien d'un staff engineer en réunion client."
+  },
+  {
+    "id": 5588,
+    "title": "Éloge de la simplicité",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5588/loge-de-la-simplicit",
+    "lang": "fr",
+    "roast": "Éloge de la simplicité : un talk qui tient en 5 slides, 3 phrases, et 47 questions à la fin."
+  },
+  {
+    "id": 5595,
+    "title": "Observabilité CI/CD : Normaliser avec CDEvents",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5595/observabilit-cicd-normaliser-avec-cdevents",
+    "lang": "fr",
+    "roast": "CDEvents : enfin un standard pour dire à tout le monde que votre pipeline vient encore de tomber, mais de façon interopérable."
+  },
+  {
+    "id": 5596,
+    "title": "Maman, j'ai développé un synthétiseur dans mon navigateur !  😱 🎹 🎵",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5596/maman-jai-dvelopp-un-synthtiseur-dans-mon-navigateur-",
+    "lang": "fr",
+    "roast": "Un synthétiseur dans le navigateur : parce que faire du bruit en Web Audio API, c'est moins grave que faire du bruit en prod."
+  },
+  {
+    "id": 5599,
+    "title": "Another World, une belle leçon d’architecture logicielle",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/5599/another-world-une-belle-leon-darchitecture-logicielle",
+    "lang": "fr",
+    "roast": "Another World : 20 ans après, son archi est toujours plus propre que 90% des monolithes Spring en production."
+  },
+  {
+    "id": 7851,
+    "title": "La revanche des VMs: sandboxing avec NerdBox",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7851/la-revanche-des-vms-sandboxing-avec-nerdbox",
+    "lang": "fr",
+    "roast": "Les VMs reviennent : parce qu'après avoir découvert les limites de Docker, on se souvient qu'un hyperviseur, ça isole vraiment."
+  },
+  {
+    "id": 7857,
+    "title": "Noms de domaines : la grande histoire des petites extensions",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7857/noms-de-domaines-la-grande-histoire-des-petites-extensions",
+    "lang": "fr",
+    "roast": "La grande histoire des petites extensions : `.io` vaut 10 millions, `.dev` 12 dollars, `.zip` est un crime contre l'humanité DNS."
+  },
+  {
+    "id": 7867,
+    "title": "The Sound of Your Secrets: Teaching Your Model to Spy So You Can Learn to Defend",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7867/the-sound-of-your-secrets-teaching-your-model-to-spy-so-you-can-learn-to-defend",
+    "lang": "en",
+    "roast": "Écoute tes secrets : parce que `git push` n'est pas un audit de sécurité, mais il en tient lieu pour beaucoup d'équipes."
+  },
+  {
+    "id": 7868,
+    "title": "Mesurer l’immesurable : Comment évaluer les systèmes à base d’IA générative ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7868/mesurer-limmesurable-comment-valuer-les-systmes-base-dia-gnrative-",
+    "lang": "fr",
+    "roast": "Évaluer une IA générative, c'est comme noter une dissertation écrite par dix stagiaires différents à chaque lecture."
+  },
+  {
+    "id": 7870,
+    "title": "L’ampoule qui en savait trop : voyage au cœur de la sécurité des objets connecté",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7870/lampoule-qui-en-savait-trop-voyage-au-cur-de-la-scurit-des-objets-connect",
+    "lang": "fr",
+    "roast": "L'ampoule connectée : 4Mo de RAM, un firmware de 2019 jamais patché, et un accès direct à votre Wi-Fi d'entreprise. Sleep tight."
+  },
+  {
+    "id": 7872,
+    "title": "Meet & Chip – la rencontre sous tension",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7872/meet-chip-la-rencontre-sous-tension",
+    "lang": "fr",
+    "roast": "Meet & Chip : le seul endroit où « implanter une idée » a un sens très littéral."
+  },
+  {
+    "id": 7880,
+    "title": "Et si on ouvrait le capot de PostgreSQL ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7880/et-si-on-ouvrait-le-capot-de-postgresql-",
+    "lang": "fr",
+    "roast": "Sous le capot de PostgreSQL : 1600 pages de doc, 35 ans d'histoire, et toujours plus stable que votre dernier framework JS."
+  },
+  {
+    "id": 7882,
+    "title": "Unveiling the simple math that powers AI",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7882/unveiling-the-simple-math-that-powers-ai",
+    "lang": "en",
+    "roast": "La « simple math » derrière l'IA : spoiler — ce sont des matrices. Énormément de matrices. Et un peu de softmax pour la déco."
+  },
+  {
+    "id": 7899,
+    "title": "Le DevOps est mort, vive le Platform Engineering !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/7899/le-devops-est-mort-vive-le-platform-engineering-",
+    "lang": "fr",
+    "roast": "Le DevOps est mort, vive le Platform Engineering ! Même équipe, même Terraform, nouveau titre sur LinkedIn."
+  },
+  {
+    "id": 9701,
+    "title": "Respectons (enfin) l'article 25 du RGPD avec PostgreSQL Anonymizer",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/9701/respectons-enfin-larticle-25-du-rgpd-avec-postgresql-anonymizer",
+    "lang": "fr",
+    "roast": "RGPD article 25 : Privacy by design. Quatre mots que 100% des équipes ont lus, et que 12% ont vraiment implémentés."
+  },
+  {
+    "id": 9703,
+    "title": "Comment la Petite Souris gère ses milliards de dents avec TimescaleDB",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/9703/comment-la-petite-souris-gre-ses-milliards-de-dents-avec-timescaledb",
+    "lang": "fr",
+    "roast": "La Petite Souris gère ses dents avec TimescaleDB. Votre prod gère ses logs avec `tail -f`. On fait ce qu'on peut."
+  },
+  {
+    "id": 9711,
+    "title": "All-In sur la plateforme : nouveau Poker @Betclic",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/9711/allin-sur-la-plateforme-nouveau-poker-betclic",
+    "lang": "fr",
+    "roast": "All-in sur la plateforme interne : le moment où un dev Betclic parie son uptime sur une décision d'architecte."
+  },
+  {
+    "id": 9714,
+    "title": "Theory to Practice: Real-World Lessons in Post-Quantum Cryptography Migration",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/9714/theory-to-practice-realworld-lessons-in-postquantum-cryptography-migration",
+    "lang": "en",
+    "roast": "Post-quantum cryptography : le jour où on migre tout, on découvrira que le chiffrement RSA était encore utilisé dans un cron de 2008."
+  },
+  {
+    "id": 9716,
+    "title": "Secure all the things: From IaC to Kubernetes",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/9716/secure-all-the-things-from-iac-to-kubernetes",
+    "lang": "fr",
+    "roast": "Secure all the things : From IaC to Kubernetes. En vrai, de `terraform apply` à `kubectl apply`, avec `--force` entre les deux."
+  },
+  {
+    "id": 9717,
+    "title": "GitOps et le multi-environnements, une histoire de promotion",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/9717/gitops-et-le-multienvironnements-une-histoire-de-promotion",
+    "lang": "fr",
+    "roast": "GitOps multi-env : promouvoir un commit, c'est surtout copier un tag et prier pour que le diff Helm soit sage."
+  },
+  {
+    "id": 9732,
+    "title": "A door with no locks? Let’s talk about threat modeling",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/9732/a-door-with-no-locks-lets-talk-about-threat-modeling",
+    "lang": "en",
+    "roast": "Threat modeling : l'art d'imaginer tous les moyens d'être piraté, puis d'en ignorer 80% parce que le backlog est plein."
+  },
+  {
+    "id": 9733,
+    "title": "Prolongez la vie de vos dashboards : Guide de survie anti-sapin de Noël",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/9733/prolongez-la-vie-de-vos-dashboards-guide-de-survie-antisapin-de-nol",
+    "lang": "fr",
+    "roast": "Le sapin de Noël sur Grafana : quand chaque alerte clignote, aucune ne signifie plus rien. Bienvenue dans l'observabilité moderne."
+  },
+  {
+    "id": 12060,
+    "title": "Êtes-vous prêt pour l'entreprise bionique ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/12060/-tesvous-prt-pour-lentreprise-bionique-",
+    "lang": "fr",
+    "roast": "L'entreprise bionique : comme une entreprise classique, mais avec trois abonnements OpenAI de plus sur la note de frais."
+  },
+  {
+    "id": 12063,
+    "title": "Kafka avec Raft en production : une nouvelle ère pour les commit logs distribués",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/12063/kafka-avec-raft-en-production-une-nouvelle-re-pour-les-commit-logs-distribus",
+    "lang": "fr",
+    "roast": "Kafka + Raft en prod : parce que remplacer un ZooKeeper qui marche par un quorum Raft qui débute, c'est un vrai projet d'architecte."
+  },
+  {
+    "id": 12071,
+    "title": "Avec l’IA, la musique a-t-elle le blues ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/12071/avec-lia-la-musique-atelle-le-blues-",
+    "lang": "fr",
+    "roast": "L'IA qui compose de la musique : techniquement impressionnant, statistiquement déprimant, artistiquement discutable."
+  },
+  {
+    "id": 12075,
+    "title": "Vibe-coder du lourd avec Kilocode !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/12075/vibecoder-du-lourd-avec-kilocode-",
+    "lang": "fr",
+    "roast": "Vibe-coder du lourd : c'est comme coder à l'instinct, mais avec Claude qui valide toutes vos mauvaises idées à votre place."
+  },
+  {
+    "id": 12085,
+    "title": "Les gardiens du Prompt: menaces et recettes de sécurité pour une production zen.",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/12085/les-gardiens-du-prompt-menaces-et-recettes-de-scurit-pour-une-production-zen",
+    "lang": "fr",
+    "roast": "Les gardiens du prompt : sentinelles modernes veillant pour que personne n'écrive « ignore previous instructions » dans un ticket Jira."
+  },
+  {
+    "id": 12093,
+    "title": "Les Fantastiques Petits Modèles de Langue (SLM) et quand les utiliser",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/12093/les-fantastiques-petits-modles-de-langue-slm-et-quand-les-utiliser-",
+    "lang": "fr",
+    "roast": "Small Language Models : quand vous réalisez que 90% de vos prompts n'avaient pas besoin de GPT-5 pour retourner « oui »."
+  },
+  {
+    "id": 15151,
+    "title": "La magie d’OpenTelemetry : réécrire votre app en production",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15151/la-magie-dopentelemetry-rcrire-votre-app-en-production",
+    "lang": "fr",
+    "roast": "OpenTelemetry : la bibliothèque qui vous promet d'unifier vos traces, après seulement 47 standards intermédiaires."
+  },
+  {
+    "id": 15152,
+    "title": "Are We Ready For The Next Cyber Security Crisis Like Log4Shell?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15152/are-we-ready-for-the-next-cyber-security-crisis-like-log4shell",
+    "lang": "en",
+    "roast": "Log4Shell 2 : le retour. Spoiler — oui, on est prêts à paniquer exactement comme la dernière fois."
+  },
+  {
+    "id": 15153,
+    "title": "Specification Driven Development : Développer à l'ère des LLM",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15153/specification-driven-development-dvelopper-lre-des-llm",
+    "lang": "fr",
+    "roast": "Spec-Driven Development : écrire la spec avant le code. Révolutionnaire. On appelait ça « un cahier des charges » en 1995."
+  },
+  {
+    "id": 15156,
+    "title": "Learning modern Java the playful way",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15156/learning-modern-java-the-playful-way",
+    "lang": "en",
+    "roast": "Learn modern Java the playful way : enfin un prétexte pour dire à ton manager que tu joues pendant les heures de bureau."
+  },
+  {
+    "id": 15157,
+    "title": "Developers, start your nginx ! Propulsé par Java FFM API.",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15157/developers-start-your-nginx-propuls-par-java-ffm-api",
+    "lang": "fr",
+    "roast": "Démarrer nginx depuis Java via FFM : parce qu'on ne peut pas juste faire `docker run nginx`, ce serait trop triste."
+  },
+  {
+    "id": 15161,
+    "title": "Quand la Magie exécute du Code",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15161/quand-la-magie-excute-du-code",
+    "lang": "fr",
+    "roast": "La magie exécute du code : exactement comme vos macros Excel, mais avec des exposants et un grimoire en Kotlin."
+  },
+  {
+    "id": 15162,
+    "title": "Vous croyez connaître Git ? Challenge Accepted",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15162/vous-croyez-connatre-git-challenge-accepted",
+    "lang": "fr",
+    "roast": "« Vous croyez connaître Git » : spoiler, non. Personne ne connaît vraiment Git. Linus lui-même a des doutes sur `rebase --onto`."
+  },
+  {
+    "id": 15170,
+    "title": "Outcoded by Our Kids : Il nous a fallu 20 ans… ils ont eu besoin de 20 prompts !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15170/outcoded-by-our-kids-il-nous-a-fallu-20-ans-ils-ont-eu-besoin-de-20-prompts-",
+    "lang": "fr",
+    "roast": "Nos enfants codent en 20 prompts ce qu'on codait en 20 ans. Mais ils ne savent toujours pas pourquoi ça marche. Egalité."
+  },
+  {
+    "id": 15173,
+    "title": "Domptez vos Agents : AGENTS.md et Context Engineering pour une IA déterministe",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15173/domptez-vos-agents-agentsmd-et-context-engineering-pour-une-ia-dterministe",
+    "lang": "fr",
+    "roast": "AGENTS.md : le README qui parle aux IA. Parce que vos vrais collègues ne lisent déjà pas le README classique."
+  },
+  {
+    "id": 15177,
+    "title": "Façonner la pertinence et la résilience de notre expertise au-delà de 2030",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15177/faonner-la-pertinence-et-la-rsilience-de-notre-expertise-audel-de-2030",
+    "lang": "fr",
+    "roast": "Rester pertinent en 2030 : la version longue et inquiète de « apprendre à apprendre »."
+  },
+  {
+    "id": 15183,
+    "title": "Jdeps, Jlink et les layers : faites perdre du poids à vos images Docker Java !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/15183/jdeps-jlink-et-les-layers-faites-perdre-du-poids-vos-images-docker-java-",
+    "lang": "fr",
+    "roast": "jdeps + jlink : faites maigrir votre image Docker Java… de 380 Mo à 280 Mo. Quelque part, un dev Go rit."
+  },
+  {
+    "id": 19003,
+    "title": "Top 10 Event-Driven Architecture Pitfalls",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19003/top-10-eventdriven-architecture-pitfalls",
+    "lang": "en",
+    "roast": "Top 10 Event-Driven pitfalls : et les 10 sont tous « un consumer qui n'a pas commit son offset avant le crash »."
+  },
+  {
+    "id": 19008,
+    "title": "2 ans après, les devs n'ont pas disparu : du coup l'IA ca sert à rien ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19008/2-ans-aprs-les-devs-nont-pas-disparu-du-coup-lia-ca-sert-rien-",
+    "lang": "fr",
+    "roast": "Les devs n'ont pas disparu, contrairement aux prédictions LinkedIn de 2023. Mais les juniors un peu, ça c'est vrai."
+  },
+  {
+    "id": 19012,
+    "title": "Vous pouvez venir à cet atelier les yeux fermés",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19012/vous-pouvez-venir-cet-atelier-les-yeux-ferms",
+    "lang": "fr",
+    "roast": "Un atelier les yeux fermés : enfin une promesse plus honnête que « ce meeting aurait pu être un email »."
+  },
+  {
+    "id": 19013,
+    "title": "Docker Agent - comment simplifier encore plus la création d'agents IA ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19013/docker-agent-comment-simplifier-encore-plus-la-cration-dagents-ia-",
+    "lang": "fr",
+    "roast": "Docker Agent : parce qu'il fallait vraiment une quatrième façon de créer un agent IA cette année."
+  },
+  {
+    "id": 19014,
+    "title": "Quand l’accessibilité rencontre le Mob : pratiquer, tester, corriger ensemble",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19014/quand-laccessibilit-rencontre-le-mob-pratiquer-tester-corriger-ensemble",
+    "lang": "fr",
+    "roast": "Le mob programming pour l'accessibilité : si 6 devs à un clavier ne trouvent pas le bug a11y, c'est que personne n'utilise de lecteur d'écran."
+  },
+  {
+    "id": 19020,
+    "title": "TemBoard : L’outil open source tout-en-un pour vos parc d'instances PostgreSQL",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19020/temboard-loutil-open-source-toutenun-pour-vos-parc-dinstances-postgresql",
+    "lang": "fr",
+    "roast": "TemBoard : l'outil open source qui admin vos Postgres. Parce qu'à un moment, `psql -c` ne suffit plus, même pour les puristes."
+  },
+  {
+    "id": 19024,
+    "title": "Voyage au bout des APIs IO de Linux (de \"poll\" à \"io_uring\")",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19024/voyage-au-bout-des-apis-io-de-linux-de-poll-io_uring",
+    "lang": "fr",
+    "roast": "De `poll()` à `io_uring` : 30 ans d'histoire pour que votre API attende toujours la base de données."
+  },
+  {
+    "id": 19025,
+    "title": "Effect-TS :  exploiter toute la puissance de TypeScript",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19025/effectts-exploiter-toute-la-puissance-de-typescript",
+    "lang": "fr",
+    "roast": "Effect-TS : la preuve que TypeScript peut être aussi compliqué que Haskell, mais sans les haskellers pour le défendre."
+  },
+  {
+    "id": 19027,
+    "title": "De développeur à hacker : savoir casser, c'est savoir protéger ⚔️",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19027/de-dveloppeur-hacker-savoir-casser-cest-savoir-protger-",
+    "lang": "fr",
+    "roast": "De développeur à hacker : le CV dit « pentesteur », le contrat dit « développeur full-stack qui n'a pas le droit de prod »."
+  },
+  {
+    "id": 19034,
+    "title": "Un développeur au Bug Bounty privé d’OpenAI 🤓 🛡️ 🤖",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19034/un-dveloppeur-au-bug-bounty-priv-dopenai-",
+    "lang": "fr",
+    "roast": "Un dev au Bug Bounty d'OpenAI : soit tu es riche, soit tu as passé 3 mois à découvrir qu'ils considèrent ton bug comme un feature."
+  },
+  {
+    "id": 19044,
+    "title": "Performance de backend Spring : les techniques que tout dev devrait connaître",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19044/performance-de-backend-spring-les-techniques-que-tout-dev-devrait-connatre",
+    "lang": "fr",
+    "roast": "Performance Spring : 90% du gain, c'est virer le code qui faisait un `findAll()` pour afficher un nom."
+  },
+  {
+    "id": 19048,
+    "title": "Montez votre Café IA : 10 conseils pour parler d'IA à tous",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/19048/montez-votre-caf-ia-10-conseils-pour-parler-dia-tous",
+    "lang": "fr",
+    "roast": "Le Café IA : dix minutes pour expliquer à Jean-Michel de la compta qu'un prompt n'est pas une demande de virement."
+  },
+  {
+    "id": 22554,
+    "title": "OSINT : L’art de trouver ce qui ne devrait pas être trouvé",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22554/osint-lart-de-trouver-ce-qui-ne-devrait-pas-tre-trouv",
+    "lang": "fr",
+    "roast": "OSINT : l'art de retrouver en 20 minutes l'adresse de quelqu'un qui a mis 20 ans à la cacher."
+  },
+  {
+    "id": 22562,
+    "title": "Les Value Types ne sont pas ℂomplexes",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22562/les-value-types-ne-sont-pas-omplexes",
+    "lang": "fr",
+    "roast": "Value types : la feature Java qu'on attend depuis Valhalla, et qui arrive exactement avant le burn-out de tout le projet."
+  },
+  {
+    "id": 22569,
+    "title": "BOF des JUG Leaders",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22569/bof-des-jug-leaders",
+    "lang": "fr",
+    "roast": "BOF des JUG Leaders : la seule pièce où « est-ce qu'on dit Java ou JVM ? » peut provoquer une guerre civile."
+  },
+  {
+    "id": 22570,
+    "title": "Grandir avec le numérique : et si on apprenait aux enfants à s’en protéger ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22570/grandir-avec-le-numrique-et-si-on-apprenait-aux-enfants-sen-protger-",
+    "lang": "fr",
+    "roast": "Apprendre aux enfants à se protéger du numérique : leurs parents codent les apps dont il faut se protéger. Bon courage."
+  },
+  {
+    "id": 22577,
+    "title": "Serveurs MCP : bonnes pratiques, choix de conception et leurs conséquences",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22577/serveurs-mcp-bonnes-pratiques-choix-de-conception-et-leurs-consquences",
+    "lang": "fr",
+    "roast": "Serveurs MCP : les bonnes pratiques d'aujourd'hui sont les anti-patterns dans 9 mois. On en reparle à Devoxx 2027."
+  },
+  {
+    "id": 22579,
+    "title": "APIs, contextes et prompts : la nouvelle stack du développeur web",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22579/apis-contextes-et-prompts-la-nouvelle-stack-du-dveloppeur-web",
+    "lang": "fr",
+    "roast": "APIs, contextes, prompts : la « nouvelle stack ». L'ancienne, c'était HTML, CSS, JS. On progresse."
+  },
+  {
+    "id": 22590,
+    "title": "De l'éco-volontariat à la promotion de mon side project en Australie !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22590/de-lcovolontariat-la-promotion-de-mon-side-project-en-australie-",
+    "lang": "fr",
+    "roast": "De l'éco-volontariat à la promotion d'un side-project : spoiler, les koalas n'ont pas téléchargé l'app."
+  },
+  {
+    "id": 22591,
+    "title": "Se retourner la tête avec les quiz Java de José et Jean-Michel",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22591/se-retourner-la-tte-avec-les-quiz-java-de-jos-et-jeanmichel",
+    "lang": "fr",
+    "roast": "Le quiz Java de José et Jean-Michel : vous repartirez avec 3 certitudes de moins sur `==` et `equals`."
+  },
+  {
+    "id": 22595,
+    "title": "LLMs et Hallucinations : comprendre, mesurer, maitriser",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/22595/llms-et-hallucinations-comprendre-mesurer-maitriser-",
+    "lang": "fr",
+    "roast": "Les LLM hallucinent. La bonne nouvelle : maintenant on sait mesurer à quel point. La mauvaise : c'est souvent beaucoup."
+  },
+  {
+    "id": 25904,
+    "title": "Prolog : un langage mature mais sous-estimé pour de l’IA symbolique !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/25904/prolog-un-langage-mature-mais-sousestim-pour-de-lia-symbolique-",
+    "lang": "fr",
+    "roast": "Prolog en 2026 : un langage où `append/3` vous réapprend l'humilité mieux que n'importe quel code review."
+  },
+  {
+    "id": 26801,
+    "title": "Fini les nuits difficiles: Comment l'IA a transformé nos astreintes",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26801/fini-les-nuits-difficiles-comment-lia-a-transform-nos-astreintes",
+    "lang": "fr",
+    "roast": "L'IA qui gère les astreintes : vraie promesse, sauf quand l'incident concerne justement le service de l'IA."
+  },
+  {
+    "id": 26806,
+    "title": "G1, ZGC, Shenandoah, ... avec tous ces GCs dans Java, je choisis lequel ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26806/g1-zgc-shenandoah-avec-tous-ces-gcs-dans-java-je-choisis-lequel-",
+    "lang": "fr",
+    "roast": "G1, ZGC, Shenandoah : trois garbage collectors, trois philosophies, et toujours un OOM en production."
+  },
+  {
+    "id": 26807,
+    "title": "AWS Lambda officiellement Rust : du from-scratch aux bindings progressifs",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26807/aws-lambda-officiellement-rust-du-fromscratch-aux-bindings-progressifs",
+    "lang": "fr",
+    "roast": "AWS Lambda en Rust : pour quand votre fonction doit démarrer en 3ms et consommer 4Mo, mais facturer comme Java."
+  },
+  {
+    "id": 26810,
+    "title": "L'IA dans le cycle de vie logiciel : quelles opportunités, quelles limites ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26810/lia-dans-le-cycle-de-vie-logiciel-quelles-opportunits-quelles-limites-",
+    "lang": "fr",
+    "roast": "L'IA dans le cycle de vie logiciel : pour l'instant, surtout dans le cycle de vie des comptes GitHub compromis."
+  },
+  {
+    "id": 26815,
+    "title": "Compose & Dragons: le jeu de rôle des agents nourris aux Tiny Language Models",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26815/compose-dragons-le-jeu-de-rle-des-agents-nourris-aux-tiny-language-models",
+    "lang": "fr",
+    "roast": "Compose & Dragons : un jeu de rôle propulsé par des Tiny LM. Les PNJ ont moins d'hallucinations que ChatGPT."
+  },
+  {
+    "id": 26828,
+    "title": "Observabilité PostgreSQL : la configuration des logs qui change tout.",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26828/observabilit-postgresql-la-configuration-des-logs-qui-change-tout",
+    "lang": "fr",
+    "roast": "Configurer correctement les logs Postgres : la seule action qui peut diviser par 10 votre facture cloud ET votre MTTR."
+  },
+  {
+    "id": 26829,
+    "title": "Jujutsu et la fin de la peur du rebase !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26829/jujutsu-et-la-fin-de-la-peur-du-rebase-",
+    "lang": "fr",
+    "roast": "Jujutsu et la fin de la peur du rebase : promesse noble, sauf si ton collègue pousse encore en `--force`."
+  },
+  {
+    "id": 26832,
+    "title": "Créez votre premier microservices en Rust",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26832/crez-votre-premier-microservices-en-rust",
+    "lang": "fr",
+    "roast": "Un premier microservice en Rust : prévois 3h de compilation pour 300 lignes de code. Mais quelles 300 lignes."
+  },
+  {
+    "id": 26837,
+    "title": "Kubernetes et la JVM",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26837/kubernetes-et-la-jvm",
+    "lang": "fr",
+    "roast": "Kubernetes et la JVM : l'alliance de deux systèmes qui gèrent la mémoire avec un enthousiasme inversement proportionnel."
+  },
+  {
+    "id": 26841,
+    "title": "CLI-Driven Developer Experience : L'ingrédient secret d'une équipe alignée",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26841/clidriven-developer-experience-lingrdient-secret-dune-quipe-aligne",
+    "lang": "fr",
+    "roast": "CLI-Driven DX : la preuve que la moitié du succès d'un outil, c'est d'avoir une sortie colorée et trois emojis."
+  },
+  {
+    "id": 26844,
+    "title": "Au coeur d’une pipeline: démystifions Vite et ses plugins",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26844/au-coeur-dune-pipeline-dmystifions-vite-et-ses-plugins",
+    "lang": "fr",
+    "roast": "Vite et ses plugins : c'est rapide, c'est moderne, et ça cassera vos imports à la prochaine minor."
+  },
+  {
+    "id": 26845,
+    "title": "Local-first et sync-engines, l'architecture du futur ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26845/localfirst-et-syncengines-larchitecture-du-futur-",
+    "lang": "fr",
+    "roast": "Local-first : la nouvelle architecture du futur. La même que celle de 1998, mais avec CRDTs et un blog post Medium."
+  },
+  {
+    "id": 26847,
+    "title": "Tic-Tac... 💣! Maîtrisez le temps et NTP avant qu'il ne soit trop tard",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26847/tictac-matrisez-le-temps-et-ntp-avant-quil-ne-soit-trop-tard",
+    "lang": "fr",
+    "roast": "NTP : l'ingrédient secret derrière 100% des bugs à minuit, et 50% des faux positifs en monitoring."
+  },
+  {
+    "id": 26850,
+    "title": "🚀 De Java à l'IA : Construisez Votre Premier Système d'Agents Intelligents !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/26850/-de-java-lia-construisez-votre-premier-systme-dagents-intelligents-",
+    "lang": "fr",
+    "roast": "De Java à l'IA en un talk : ou comment convaincre votre manager que `LangChain4j` mérite une ligne budgétaire."
+  },
+  {
+    "id": 29753,
+    "title": "Shall we play a Game? LLM Security in Practice",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/29753/shall-we-play-a-game-llm-security-in-practice",
+    "lang": "en",
+    "roast": "LLM Security in Practice : « Shall we play a game? ». Spoiler — le modèle jouera, avec vos tokens et votre budget."
+  },
+  {
+    "id": 29756,
+    "title": "Comment les développeurs lisent du code ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/29756/comment-les-dveloppeurs-lisent-du-code-",
+    "lang": "fr",
+    "roast": "Comment les devs lisent du code : en diagonale, en jurant, et en priant pour que `git blame` désigne quelqu'un d'autre."
+  },
+  {
+    "id": 29765,
+    "title": "A2A en 30 Minutes: Construire des agent IA qui communiquent",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/29765/a2a-en-30-minutes-construire-des-agent-ia-qui-communiquent",
+    "lang": "fr",
+    "roast": "A2A en 30 minutes : deux agents IA qui discutent. L'un facture, l'autre hallucine. Spoiler : c'est toujours vous qui payez."
+  },
+  {
+    "id": 29768,
+    "title": "Apprenez à écrire des tests front maintenables et résilients avec Playwright",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/29768/apprenez-crire-des-tests-front-maintenables-et-rsilients-avec-playwright",
+    "lang": "fr",
+    "roast": "Playwright : pour écrire des tests front qui ne se cassent pas au prochain `npm update`. Succès mitigé mais honnête."
+  },
+  {
+    "id": 29769,
+    "title": "La transactionalité expliquée",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/29769/la-transactionalit-explique",
+    "lang": "fr",
+    "roast": "La transactionalité expliquée : quatre lettres — ACID — et une quantité indécente de CAP theorems mal compris."
+  },
+  {
+    "id": 29772,
+    "title": "Bye bye Vendor Lock-in : Standardisez vos Feature Flags avec OpenFeature",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/29772/bye-bye-vendor-lockin-standardisez-vos-feature-flags-avec-openfeature",
+    "lang": "fr",
+    "roast": "OpenFeature : standardiser les feature flags. Autrement dit, résoudre un problème de lock-in… en créant un nouveau standard."
+  },
+  {
+    "id": 29779,
+    "title": "Maximiser votre productivité en rendant votre clavier 2.0 ergonomique",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/29779/maximiser-votre-productivit-en-rendant-votre-clavier-20-ergonomique",
+    "lang": "fr",
+    "roast": "Un clavier ergonomique 2.0 : +40% de productivité, -80% de chances de taper sur le clavier d'un collègue en open-space."
+  },
+  {
+    "id": 32115,
+    "title": "MLOps 🛠️ - Comprendre et combattre la dégradation des modèles en production",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/32115/mlops-comprendre-et-combattre-la-dgradation-des-modles-en-production-",
+    "lang": "fr",
+    "roast": "MLOps : la dégradation de modèle est inévitable. Comme le turnover des data scientists qui l'ont entraîné."
+  },
+  {
+    "id": 32116,
+    "title": "Trop de news, pas assez de temps ? Génère tes propres podcasts de veille !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/32116/trop-de-news-pas-assez-de-temps-gnre-tes-propres-podcasts-de-veille-",
+    "lang": "fr",
+    "roast": "Trop de news ? L'IA te génère un podcast qui résume les articles qui étaient déjà des résumés de tweets."
+  },
+  {
+    "id": 32124,
+    "title": "Standards et agents IA : un tour d’horizon de MCP, A2A, ADK et plus encore",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/32124/standards-et-agents-ia-un-tour-dhorizon-de-mcp-a2a-adk-et-plus-encore",
+    "lang": "fr",
+    "roast": "MCP, A2A, ADK : un tour d'horizon. Aussi appelé « les standards qui existaient pas il y a 18 mois et qui disparaîtront dans 18 autres »."
+  },
+  {
+    "id": 32125,
+    "title": "Les Cast Codeurs sans casque, sans écran mais avec de la joie",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/32125/les-cast-codeurs-sans-casque-sans-cran-mais-avec-de-la-joie",
+    "lang": "fr",
+    "roast": "Les Cast Codeurs sans casque : c'est comme les Cast Codeurs, mais vous voyez leurs expressions quand Emmanuel parle de Hibernate."
+  },
+  {
+    "id": 32126,
+    "title": "⌛ Et si on débuguait notre rapport au temps ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/32126/-et-si-on-dbuguait-notre-rapport-au-temps-",
+    "lang": "fr",
+    "roast": "Déboguer notre rapport au temps : recommandé pour les développeurs qui disent « j'en ai pour 5 minutes » depuis 2014."
+  },
+  {
+    "id": 32129,
+    "title": "La genIA directement dans mon navigateur, c’est possible ? (spoiler, oui 😉)",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/32129/la-genia-directement-dans-mon-navigateur-cest-possible-spoiler-oui-",
+    "lang": "fr",
+    "roast": "La GenAI dans le navigateur : techniquement possible, mais votre ventilateur de MacBook demande une pause syndicale."
+  },
+  {
+    "id": 32132,
+    "title": "De l'intuition à l'IA : automatiser l'investigation de tests flaky",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/32132/de-lintuition-lia-automatiser-linvestigation-de-tests-flaky",
+    "lang": "fr",
+    "roast": "Tests flaky : les seuls tests qui passent quand on les lance deux fois, et échouent quand on les regarde."
+  },
+  {
+    "id": 32137,
+    "title": "Chrome DevTools MCP : donnez des yeux à votre IA",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/32137/chrome-devtools-mcp-donnez-des-yeux-votre-ia",
+    "lang": "fr",
+    "roast": "Chrome DevTools MCP : donner des yeux à l'IA. Parce que jusqu'ici, elle cassait vos CSS à l'aveugle."
+  },
+  {
+    "id": 34401,
+    "title": "Mise : un multi-outil pour votre poste de Dev & Ops",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/34401/mise-un-multioutil-pour-votre-poste-de-dev-ops",
+    "lang": "fr",
+    "roast": "Mise : un multi-outil pour poste de dev. Autrement dit, asdf mais avec un logo plus sympa et la même logique."
+  },
+  {
+    "id": 34404,
+    "title": "ChatGPT ou GenUI ? Construire l'assistant SNCF Connect de demain 🚆 🚀",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/34404/chatgpt-ou-genui-construire-lassistant-sncf-connect-de-demain-",
+    "lang": "fr",
+    "roast": "SNCF Connect + GenUI : on aura au moins un assistant IA pour expliquer pourquoi le train a 47 minutes de retard."
+  },
+  {
+    "id": 34405,
+    "title": "Les feature flags : une aide précieuse ou un frein pour une équipe",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/34405/les-feature-flags-une-aide-prcieuse-ou-un-frein-pour-une-quipe",
+    "lang": "fr",
+    "roast": "Feature flags : la liberté de déployer à l'aveugle, la responsabilité de nettoyer les flags six mois plus tard (jamais)."
+  },
+  {
+    "id": 34412,
+    "title": "Être payé en equity : comment ça marche ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/34412/tre-pay-en-equity-comment-a-marche-",
+    "lang": "fr",
+    "roast": "Être payé en equity : une promesse très cloud — élastique, volatile, et parfois indisponible sans préavis."
+  },
+  {
+    "id": 34420,
+    "title": "Engineering multimodal AI video pipelines at scale: from zero to hero",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/34420/engineering-multimodal-ai-video-pipelines-at-scale-from-zero-to-hero",
+    "lang": "en",
+    "roast": "Pipelines multimodaux à l'échelle : du « zero to hero ». Puis du « hero to cost-killed » le mois suivant."
+  },
+  {
+    "id": 37751,
+    "title": "NodeJS : Boostez vos tests d'intégration avec Vitest, Testcontainers et PGlite",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/37751/nodejs-boostez-vos-tests-dintgration-avec-vitest-testcontainers-et-pglite",
+    "lang": "fr",
+    "roast": "Vitest + Testcontainers + PGlite : la combinaison qui fait passer vos tests de « rapide et faux » à « lent et vrai »."
+  },
+  {
+    "id": 37753,
+    "title": "Retrouver l’étincelle : un \"Reboot\" de carrière",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/37753/retrouver-ltincelle-un-reboot-de-carrire",
+    "lang": "fr",
+    "roast": "Un reboot de carrière : parfois il suffit d'un `ctrl+alt+suppr`. Parfois il faut un talk entier à Devoxx."
+  },
+  {
+    "id": 37754,
+    "title": "Engineering a Modern Java Platform",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/37754/engineering-a-modern-java-platform",
+    "lang": "en",
+    "roast": "Engineering a Modern Java Platform : la preuve par l'exemple qu'on peut encore moderniser Java tous les 6 mois, pour la 12e fois."
+  },
+  {
+    "id": 37763,
+    "title": "Informatique quantique, ce coup-ci on vous dit tout !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/37763/informatique-quantique-ce-coupci-on-vous-dit-tout-",
+    "lang": "fr",
+    "roast": "L'informatique quantique : cette fois c'est promis, on va vraiment tout vous dire. Comme aux trois dernières éditions."
+  },
+  {
+    "id": 37772,
+    "title": "Un mot de passe ? Non merci, j’ai une passkey.",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/37772/un-mot-de-passe-non-merci-jai-une-passkey",
+    "lang": "fr",
+    "roast": "Passkeys : plus besoin de mot de passe. Enfin, si votre iPhone, votre Mac, et votre humeur coopèrent en même temps."
+  },
+  {
+    "id": 41355,
+    "title": "BOF Duchess France - Table ronde \"Apprendre en permanence sans s'épuiser\"",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/41355/bof-duchess-france-table-ronde-apprendre-en-permanence-sans-spuiser",
+    "lang": "fr",
+    "roast": "Apprendre en permanence sans s'épuiser : pour l'instant, la seule solution connue est un CDD dans une autre industrie."
+  },
+  {
+    "id": 41357,
+    "title": "Unconference : Le management sans filtre",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/41357/unconference-le-management-sans-filtre",
+    "lang": "fr",
+    "roast": "Le management sans filtre : une unconference où on découvre que même les CTOs ne savent pas ce que fait le CTO d'à côté."
+  },
+  {
+    "id": 41358,
+    "title": "Unconference : Le rôle de Staff+ au quotidien",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/41358/unconference-le-rle-de-staff-au-quotidien",
+    "lang": "fr",
+    "roast": "Staff+ au quotidien : 20% de code, 30% de meetings, 50% à expliquer ce qu'on fait et pourquoi on n'a pas livré."
+  },
+  {
+    "id": 44001,
+    "title": "UDA (Unified Data Architecture) à Netflix",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/44001/uda-unified-data-architecture-netflix",
+    "lang": "fr",
+    "roast": "Netflix UDA : quand ton archi data est plus complexe que la maison que tu loues à Ibiza grâce à ton salaire Netflix."
+  },
+  {
+    "id": 44003,
+    "title": "Le vrai coût d'un token: la facture cachée de l’IA générative",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/44003/le-vrai-cot-dun-token-la-facture-cache-de-lia-gnrative",
+    "lang": "fr",
+    "roast": "Le vrai coût d'un token : il faut juste multiplier par 10 ce que ton devoteam a annoncé au C-level."
+  },
+  {
+    "id": 44751,
+    "title": "5 piliers pour manager une équipe performante, même en remote.",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/44751/5-piliers-pour-manager-une-quipe-performante-mme-en-remote",
+    "lang": "fr",
+    "roast": "Manager en remote : 5 piliers, dont trois sont « ne pas envoyer de message Slack à 22h »."
+  },
+  {
+    "id": 45201,
+    "title": "▣ QR Codes : suivez les points sans vous perdre ! ▣",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/45201/-qr-codes-suivez-les-points-sans-vous-perdre-",
+    "lang": "fr",
+    "roast": "QR codes : un carré qui contient l'URL d'un PDF qui contient un autre QR code. Vive l'époque."
+  },
+  {
+    "id": 45203,
+    "title": "Gérer vos tickets support avec de l’IA mais sans cramer la planète",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/45203/grer-vos-tickets-support-avec-de-lia-mais-sans-cramer-la-plante",
+    "lang": "fr",
+    "roast": "Gérer le support avec l'IA sans cramer la planète : la difficulté est surtout dans la conjonction « sans »."
+  },
+  {
+    "id": 45204,
+    "title": "Docker Compose votre Dev Toolkit pour AI & Cloud",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/45204/docker-compose-votre-dev-toolkit-pour-ai-cloud",
+    "lang": "fr",
+    "roast": "Docker Compose AI toolkit : trois conteneurs, un modèle, et suffisamment de RAM pour faire fondre votre laptop."
+  },
+  {
+    "id": 47453,
+    "title": "Supply Chain Security : Rex et Pain Points de la CI/CD en 2026",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/47453/supply-chain-security-rex-et-pain-points-de-la-cicd-en-2026",
+    "lang": "fr",
+    "roast": "Supply chain CI/CD : chaque npm install est une déclaration de confiance, et chaque `postinstall` un pari risqué."
+  },
+  {
+    "id": 50552,
+    "title": "Les erreurs normales : Anatomie d'un renoncement collectif",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/50552/les-erreurs-normales-anatomie-dun-renoncement-collectif",
+    "lang": "fr",
+    "roast": "Les erreurs normales : un talk rassurant, pour vous rappeler que cet incident de la semaine dernière n'était ni anormal, ni évitable. Probablement."
+  },
+  {
+    "id": 51601,
+    "title": "L'Agentic Coding, nouveau territoire du Platform Engineering",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51601/lagentic-coding-nouveau-territoire-du-platform-engineering",
+    "lang": "fr",
+    "roast": "Agentic coding + Platform Engineering : vous êtes désormais responsable des crashs causés par des IA que vous n'avez pas écrites."
+  },
+  {
+    "id": 51608,
+    "title": "7 ans au pays de Kafka",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51608/7-ans-au-pays-de-kafka",
+    "lang": "fr",
+    "roast": "7 ans au pays de Kafka : le pays où chaque partition est une histoire, et chaque rebalance un traumatisme."
+  },
+  {
+    "id": 51618,
+    "title": "Comment contribuer à des projets Google comme 1 ère expérience professionnelle",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51618/comment-contribuer-des-projets-google-comme-1-re-exprience-professionnelle",
+    "lang": "fr",
+    "roast": "Contribuer à Google en premier emploi : le speedrun ultime du syndrome de l'imposteur."
+  },
+  {
+    "id": 51625,
+    "title": "Silence is Coming: Survivre au chaos dans une archi événementielle distribuée",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51625/silence-is-coming-survivre-au-chaos-dans-une-archi-vnementielle-distribue",
+    "lang": "fr",
+    "roast": "Silence is Coming : l'archi événementielle où quand tout va bien, on n'entend plus rien. Exactement comme quand tout va mal."
+  },
+  {
+    "id": 51626,
+    "title": "Green Architecture : moins de gras, plus d’impact, plus d'efficacité !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51626/green-architecture-moins-de-gras-plus-dimpact-plus-defficacit-",
+    "lang": "fr",
+    "roast": "Green architecture : moins de gras, plus d'impact. Commencez par supprimer le cluster K8s de votre site vitrine à 12 visites/jour."
+  },
+  {
+    "id": 51627,
+    "title": "Virtual Threads, Structured Concurrency et Scoped Values en Java 25 et au-delà",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51627/virtual-threads-structured-concurrency-et-scoped-values-en-java-25-et-audel",
+    "lang": "fr",
+    "roast": "Virtual Threads, Structured Concurrency, Scoped Values : Java 25 essaie très fort d'être Go. Avec 25 ans d'avance sur le retard."
+  },
+  {
+    "id": 51633,
+    "title": "Transformer son API Doc en levier de conversion : best pratices",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51633/transformer-son-api-doc-en-levier-de-conversion-best-pratices",
+    "lang": "fr",
+    "roast": "La doc d'API comme levier de conversion : si votre Swagger convertit, c'est que votre produit est vraiment très bien."
+  },
+  {
+    "id": 51635,
+    "title": "Clean Code Matters",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51635/clean-code-matters",
+    "lang": "fr",
+    "roast": "Clean Code Matters : oui, mais pas autant que livrer, disent les PM. Et pas autant que les tests, disent les tests."
+  },
+  {
+    "id": 51639,
+    "title": "Dev agentique : Stitch et Jules dans l’Antigravité de la constellation Gemini",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51639/dev-agentique-stitch-et-jules-dans-lantigravit-de-la-constellation-gemini",
+    "lang": "fr",
+    "roast": "Stitch, Jules, Antigravité, Gemini : la liste des noms de produits que Google va renommer d'ici 2027."
+  },
+  {
+    "id": 51648,
+    "title": "SQL vs Les Préjugés",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51648/sql-vs-les-prjugs",
+    "lang": "fr",
+    "roast": "SQL vs les préjugés : SQL a 50 ans. Vos préjugés en ont 6. Devinez qui va gagner."
+  },
+  {
+    "id": 51650,
+    "title": "De la galère des setups locaux aux DevContainers : notre retour d'expérience.",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/51650/de-la-galre-des-setups-locaux-aux-devcontainers-notre-retour-dexprience",
+    "lang": "fr",
+    "roast": "DevContainers : parce qu'après « ça marche chez moi », on est passés à « ça marche dans mon devcontainer »."
+  },
+  {
+    "id": 54203,
+    "title": "PostgreSQL Analytics : It's a Trap!",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/54203/postgresql-analytics-its-a-trap-",
+    "lang": "fr",
+    "roast": "PostgreSQL Analytics : c'est un piège. Un piège qu'on découvre vers 50 Go de données et 3 index manquants."
+  },
+  {
+    "id": 54216,
+    "title": "Code Criminel : Résolvez l'enquête grâce à DuckDB",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/54216/code-criminel-rsolvez-lenqute-grce-duckdb",
+    "lang": "fr",
+    "roast": "Une enquête avec DuckDB : le CSI des bases analytiques, sauf que là on résout un meurtre en 0.3s sur un laptop."
+  },
+  {
+    "id": 54227,
+    "title": "Du Storytelling au rendu GPU : Quand Winamax remplace ta console de jeu",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/54227/du-storytelling-au-rendu-gpu-quand-winamax-remplace-ta-console-de-jeu",
+    "lang": "fr",
+    "roast": "Winamax remplace ta console : à ce rythme, ton prochain bug graphique sera aussi une perte d'argent."
+  },
+  {
+    "id": 54230,
+    "title": "De zéro à des milliards de traces, le tracing distribué chez Winamax",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/54230/de-zro-des-milliards-de-traces-le-tracing-distribu-chez-winamax",
+    "lang": "fr",
+    "roast": "Des milliards de traces, chez un bookmaker : quelque part, un SRE n'a plus jamais dormi depuis 2021."
+  },
+  {
+    "id": 54235,
+    "title": "L'Iceberg du CSS : Plongée dans les abysses du moteur de rendu",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/54235/liceberg-du-css-plonge-dans-les-abysses-du-moteur-de-rendu",
+    "lang": "fr",
+    "roast": "L'iceberg CSS : 10% de ce que tu écris, 90% de ce que le navigateur fait dans ton dos, et 100% de la douleur."
+  },
+  {
+    "id": 54242,
+    "title": "IA & jeux vidéo, des origines à nos jours : a (neural) link to the past",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/54242/ia-jeux-vido-des-origines-nos-jours-a-neural-link-to-the-past",
+    "lang": "fr",
+    "roast": "L'IA dans les jeux vidéo : des bots des années 90 qui faisaient semblant d'être intelligents, aux bots de 2026 qui font semblant d'être humains."
+  },
+  {
+    "id": 54249,
+    "title": "JWT : maîtrisez la sécurité des jetons stateless",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/54249/jwt-matrisez-la-scurit-des-jetons-stateless",
+    "lang": "fr",
+    "roast": "JWT stateless : aussi simple que d'oublier d'invalider un token compromis pendant 24h. Bonne chance."
+  },
+  {
+    "id": 60503,
+    "title": "Staff & Principal Engineer ? Comment ça marche chez AXA ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/60503/staff-principal-engineer-comment-a-marche-chez-axa-",
+    "lang": "fr",
+    "roast": "Staff & Principal Engineer chez AXA : deux titres, une seule certitude — plus personne ne code sauf le vendredi."
+  },
+  {
+    "id": 60505,
+    "title": "Stop à la dette documentaire : Industrialisez vos ADRs et READMEs avec Spec-kit",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/60505/stop-la-dette-documentaire-industrialisez-vos-adrs-et-readmes-avec-speckit",
+    "lang": "fr",
+    "roast": "Spec-kit : industrialiser les ADR. Parce que jusqu'ici, les ADR étaient surtout « on a décidé, mais on a oublié d'écrire pourquoi »."
+  },
+  {
+    "id": 60506,
+    "title": "Staff42 - Meetup pour Staff Engineers (H/F)",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/60506/staff42-meetup-pour-staff-engineers-hf",
+    "lang": "fr",
+    "roast": "Staff42 : un meetup pour staff engineers. Ordre du jour officiel : lead par influence. Ordre du jour réel : se plaindre des réunions."
+  },
+  {
+    "id": 60507,
+    "title": "Moins d’outils, plus d’impact : une stratégie de tests automatisés en scale-up",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/60507/moins-doutils-plus-dimpact-une-stratgie-de-tests-automatiss-en-scaleup",
+    "lang": "fr",
+    "roast": "Moins d'outils, plus d'impact : ce que tu dis à ton CTO pour refiler un outil à l'équipe d'à côté."
+  },
+  {
+    "id": 60515,
+    "title": "Production Troubleshooting : boostez vos skills, une étude de cas",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/60515/production-troubleshooting-boostez-vos-skills-une-tude-de-cas",
+    "lang": "fr",
+    "roast": "Production troubleshooting : l'étude de cas où tout le monde a RAISON en post-mortem, et PERSONNE n'avait raison à 3h du matin."
+  },
+  {
+    "id": 60519,
+    "title": "Supabase : l’alternative Open Source à Firebase",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/60519/supabase-lalternative-open-source-firebase",
+    "lang": "fr",
+    "roast": "Supabase : Firebase open source, self-hostable, mais vous allez quand même prendre la version cloud. Et c'est OK."
+  },
+  {
+    "id": 60532,
+    "title": "Développer une Application Asynchrone avec l'API Structured Concurrency",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/60532/dvelopper-une-application-asynchrone-avec-lapi-structured-concurrency",
+    "lang": "fr",
+    "roast": "Structured Concurrency : enfin une API pour que vos futurs oubliés en Java 8 n'oublient plus personne."
+  },
+  {
+    "id": 61651,
+    "title": "Chiffrement au repos – Clé maître basée sur un KEM hybride",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61651/chiffrement-au-repos-cl-matre-base-sur-un-kem-hybride",
+    "lang": "fr",
+    "roast": "Chiffrement au repos + KEM hybride : la crypto moderne, aussi passionnante qu'un cours de maths, et aussi indispensable qu'un airbag."
+  },
+  {
+    "id": 61656,
+    "title": "Charmer les dragons : pitcher son produit comme un héros",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61656/charmer-les-dragons-pitcher-son-produit-comme-un-hros",
+    "lang": "fr",
+    "roast": "Pitcher son produit comme un héros : étape 1, ne pas ouvrir avec « c'est un Uber pour X »."
+  },
+  {
+    "id": 61657,
+    "title": "#NoFrameworks: Build Your Own Agile, Burn the Playbook",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61657/noframeworks-build-your-own-agile-burn-the-playbook",
+    "lang": "en",
+    "roast": "#NoFrameworks, Burn the Playbook : la méthode agile pour les équipes qui ont fini par rebrûler tous leurs playbooks Scrum."
+  },
+  {
+    "id": 61659,
+    "title": "Chers Devs : Votre PM n'est (probablement) pas là pour vous pourrir la vie",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61659/chers-devs-votre-pm-nest-probablement-pas-l-pour-vous-pourrir-la-vie",
+    "lang": "fr",
+    "roast": "Le PM n'est pas là pour vous pourrir la vie. Il fait ça accessoirement, sans mauvaise intention."
+  },
+  {
+    "id": 61670,
+    "title": "Du texte aux données structurées complexes : quand le prompt ne suffit plus",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61670/du-texte-aux-donnes-structures-complexes-quand-le-prompt-ne-suffit-plus",
+    "lang": "fr",
+    "roast": "Quand le prompt ne suffit plus pour générer du JSON structuré : c'est là qu'on réinvente les parseurs. Mais en LLM, donc plus chers."
+  },
+  {
+    "id": 61681,
+    "title": "Les design patterns agentiques dont vous êtes le héros",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61681/les-design-patterns-agentiques-dont-vous-tes-le-hros",
+    "lang": "fr",
+    "roast": "Design patterns agentiques : comme les GoF patterns, mais chaque pattern coûte 2$ en tokens par exécution."
+  },
+  {
+    "id": 61684,
+    "title": "Dagger à l’échelle : comment éviter de se poignarder avec ses pipelines",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61684/dagger-lchelle-comment-viter-de-se-poignarder-avec-ses-pipelines",
+    "lang": "fr",
+    "roast": "Dagger à l'échelle : parce qu'à un moment, votre YAML CI de 3000 lignes mérite enfin un vrai langage."
+  },
+  {
+    "id": 61689,
+    "title": "Sous le capot d’une base de données analytique",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61689/sous-le-capot-dune-base-de-donnes-analytique",
+    "lang": "fr",
+    "roast": "Sous le capot d'une base analytique : beaucoup de vectorization, un peu de SIMD, et énormément de gens qui disent « c'est comme Postgres mais… »."
+  },
+  {
+    "id": 61693,
+    "title": "Atelier LLM - Générations avancées - Multimodalité et long contexte",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61693/atelier-llm-gnrations-avances-multimodalit-et-long-contexte",
+    "lang": "fr",
+    "roast": "LLM multimodal + long contexte : injectez 2M de tokens, payez 2M de tokens, recevez une réponse de 3 lignes."
+  },
+  {
+    "id": 61698,
+    "title": "HTTP/3 : 37 ans d’histoire du protocole HTTP",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/61698/http3-37-ans-dhistoire-du-protocole-http",
+    "lang": "fr",
+    "roast": "HTTP/3 : 37 ans d'histoire. Votre load balancer en supporte encore 1.1 et c'est déjà un miracle."
+  },
+  {
+    "id": 63903,
+    "title": "Industrialisez la maintenance de vos stacks Dev et Ops.",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/63903/industrialisez-la-maintenance-de-vos-stacks-dev-et-ops",
+    "lang": "fr",
+    "roast": "Industrialiser la maintenance des stacks : aussi appelé « arrêter de faire des `apt upgrade` à la main sur le jumpbox »."
+  },
+  {
+    "id": 63923,
+    "title": "Le mythe de la neutralité : quand la tech devient politique",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/63923/le-mythe-de-la-neutralit-quand-la-tech-devient-politique",
+    "lang": "fr",
+    "roast": "La tech n'est pas neutre : il a fallu attendre 2026 pour que ce soit un talk mainstream. Progrès."
+  },
+  {
+    "id": 63933,
+    "title": "Votre second cerveau IA sans perdre votre âme",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/63933/votre-second-cerveau-ia-sans-perdre-votre-me",
+    "lang": "fr",
+    "roast": "Un second cerveau IA sans perdre son âme : l'important, c'est que le premier cerveau sache toujours où sont les toilettes."
+  },
+  {
+    "id": 65304,
+    "title": "Hackez la \"Due Diligence\" : 70 jours/homme sauvés grâce à gemini-cli",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/65304/hackez-la-due-diligence-70-jourshomme-sauvs-grce-geminicli",
+    "lang": "fr",
+    "roast": "Gemini-cli pour la due diligence : 70 jours/homme sauvés, et 70 jours/homme à vérifier que Gemini n'a rien inventé."
+  },
+  {
+    "id": 65306,
+    "title": "Observability from scratch with OpenTelemetry",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/65306/observability-from-scratch-with-opentelemetry",
+    "lang": "fr",
+    "roast": "Observability from scratch avec OpenTelemetry : from scratch, c'est juste les 400 variables d'environnement à configurer."
+  },
+  {
+    "id": 65312,
+    "title": "Jailbreak, Prompt Injection, MCP Poisoning... Don't Panic and Hack AI 🥰 🤖",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/65312/jailbreak-prompt-injection-mcp-poisoning-dont-panic-and-hack-ai-",
+    "lang": "fr",
+    "roast": "Jailbreak & MCP poisoning : les nouveaux noms des bonnes vieilles injections, rehaussés d'un vernis ML."
+  },
+  {
+    "id": 65319,
+    "title": "Email at scale : comment on a survécu à 800M mails/an (et au DNS)",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/65319/email-at-scale-comment-on-a-survcu-800m-mailsan-et-au-dns",
+    "lang": "fr",
+    "roast": "800M mails/an : c'est exactement le volume qu'il faut pour qu'un SPF mal configuré devienne une crise existentielle."
+  },
+  {
+    "id": 65333,
+    "title": "Deterministic modernization in an age of AI",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/65333/deterministic-modernization-in-an-age-of-ai",
+    "lang": "en",
+    "roast": "Deterministic modernization in an age of AI : oxymore élégant, comme « migration Kubernetes sans surprise »."
+  },
+  {
+    "id": 65339,
+    "title": "Spécialisez vos Agents avec les Skills",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/65339/spcialisez-vos-agents-avec-les-skills",
+    "lang": "fr",
+    "roast": "Specialize your agents with Skills : parce qu'un agent généraliste, c'est un stagiaire qui dit oui à tout et ne livre rien."
+  },
+  {
+    "id": 65345,
+    "title": "Et si votre backend savait parler ? créer des agents vocaux IA en temps réel",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/65345/et-si-votre-backend-savait-parler-crer-des-agents-vocaux-ia-en-temps-rel",
+    "lang": "fr",
+    "roast": "Des agents vocaux temps réel : l'IA répond en 300ms. Votre backend Spring, dans un bon jour, aussi."
+  },
+  {
+    "id": 65346,
+    "title": "TamboUI : making 2026 the Year of Java in the Terminal",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/65346/tamboui-making-2026-the-year-of-java-in-the-terminal",
+    "lang": "en",
+    "roast": "Java in the terminal avec TamboUI : because cloud-native is fine, but a beautiful TUI makes grown engineers cry."
+  },
+  {
+    "id": 77052,
+    "title": "Réplication des données avec Apache Accord",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77052/rplication-des-donnes-avec-apache-accord",
+    "lang": "fr",
+    "roast": "Apache Accord : encore un nouveau protocole de consensus distribué. Paxos applaudit poliment au fond."
+  },
+  {
+    "id": 77057,
+    "title": "Comment l'IA a transformé la création graphique de Devoxx France",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77057/comment-lia-a-transform-la-cration-graphique-de-devoxx-france",
+    "lang": "fr",
+    "roast": "L'IA et la création graphique de Devoxx : même l'événement qui parle d'IA génère son affiche avec l'IA. Méta-level unlocked."
+  },
+  {
+    "id": 77063,
+    "title": "Vos coding agents en mode YOLO… mais en toute sécurité",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77063/vos-coding-agents-en-mode-yolo-mais-en-toute-scurit",
+    "lang": "fr",
+    "roast": "Coding agents en mode YOLO : stratégie très populaire, jusqu'au jour où l'agent commit sur `main` en direct."
+  },
+  {
+    "id": 77076,
+    "title": "Créer un Jeu Vidéo avec GitHub Copilot en 3h",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77076/-crer-un-jeu-vido-avec-github-copilot-en-3h",
+    "lang": "fr",
+    "roast": "Un jeu vidéo avec Copilot en 3h : vous repartirez avec un platformer, une migraine, et 400 suggestions de tests unitaires rejetées."
+  },
+  {
+    "id": 77085,
+    "title": "Le 5ème Meetup Search, Data & AI à Devoxx France",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77085/le-5me-meetup-search-data-ai-devoxx-france",
+    "lang": "fr",
+    "roast": "Meetup Search, Data & AI : trois buzzwords dont deux sont le même selon la journée."
+  },
+  {
+    "id": 77089,
+    "title": "Concurrency Crossroads: Choosing between Reactive Programming & Virtual Threads",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77089/concurrency-crossroads-choosing-between-reactive-programming-virtual-threads",
+    "lang": "en",
+    "roast": "Reactive vs Virtual Threads : choisissez celui dont vous aurez le moins de mal à expliquer le stack trace."
+  },
+  {
+    "id": 77092,
+    "title": "ReBAC à l'échelle : sauvons le p99",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77092/rebac-lchelle-sauvons-le-p99",
+    "lang": "fr",
+    "roast": "ReBAC à l'échelle : Zanzibar, mais à la maison. Avec un p99 qui ne veut surtout pas vous décevoir."
+  },
+  {
+    "id": 77095,
+    "title": "Tu te mets combien en responsive CSS ? Edition 2026",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77095/tu-te-mets-combien-en-responsive-css-edition-2026",
+    "lang": "fr",
+    "roast": "Responsive CSS en 2026 : entre container queries, `clamp()` et 14 breakpoints, on a enfin autant d'options qu'en 1998 avec les tables HTML."
+  },
+  {
+    "id": 77096,
+    "title": "Le Guide du Testeur - 6 mauvaises habitudes à briser absolument",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77096/le-guide-du-testeur-6-mauvaises-habitudes-briser-absolument",
+    "lang": "fr",
+    "roast": "Le guide du testeur — 6 mauvaises habitudes. Spoiler : la 1ère, c'est « écrire les tests après »."
+  },
+  {
+    "id": 77099,
+    "title": "Sécuriser les MCPs pour les mettre en production",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/77099/scuriser-les-mcps-pour-les-mettre-en-production",
+    "lang": "fr",
+    "roast": "Sécuriser les MCPs : exactement comme sécuriser les webhooks de 2015, mais avec trois buzzwords en plus et un compliance officer anxieux."
+  },
+  {
+    "id": 83101,
+    "title": "Du Sidecar à l'Ambient : Comprendre l'évolution du Service Mesh avec Istio",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/83101/du-sidecar-lambient-comprendre-lvolution-du-service-mesh-avec-istio",
+    "lang": "fr",
+    "roast": "Sidecar vs Ambient mesh : parce qu'à un moment, on se demande si le vrai mesh n'était pas juste un LoadBalancer bien configuré."
+  },
+  {
+    "id": 83109,
+    "title": "Passkeys : Adieu les mots de passe, bonjour la sécurité sans friction !",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/83109/passkeys-adieu-les-mots-de-passe-bonjour-la-scurit-sans-friction-",
+    "lang": "fr",
+    "roast": "Passkeys : adieu les mots de passe. Bonjour les tickets de support « j'ai changé de téléphone »."
+  },
+  {
+    "id": 83112,
+    "title": "Polars, la fin de Spark ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/83112/polars-la-fin-de-spark-",
+    "lang": "fr",
+    "roast": "Polars, la fin de Spark ? Pour vos 500Mo de CSV, oui. Pour votre data lake, Spark dort tranquille."
+  },
+  {
+    "id": 83139,
+    "title": "J'ai codé 47 pipelines IaC avant de comprendre: le guide du pipeline ultime",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/83139/jai-cod-47-pipelines-iac-avant-de-comprendre-le-guide-du-pipeline-ultime",
+    "lang": "fr",
+    "roast": "47 pipelines IaC avant le guide ultime : spoiler — aucun des 47 n'était ultime, mais le 48ème non plus."
+  },
+  {
+    "id": 83148,
+    "title": "La révolution WebGPU : toute la puissance du GPU, sur le web et en dehors 🚀",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/83148/la-rvolution-webgpu-toute-la-puissance-du-gpu-sur-le-web-et-en-dehors-",
+    "lang": "fr",
+    "roast": "WebGPU : enfin la puissance du GPU dans le navigateur. Pour afficher une liste de tâches avec des ombres portées."
+  },
+  {
+    "id": 85053,
+    "title": "Semantic Layer : faire parler vos données avec l'IA sans hallucinations",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85053/semantic-layer-faire-parler-vos-donnes-avec-lia-sans-hallucinations",
+    "lang": "fr",
+    "roast": "Semantic Layer + IA sans hallucinations : un peu comme promettre un restaurant sans attente à Paris en terrasse, le 14 juillet."
+  },
+  {
+    "id": 85054,
+    "title": "Enregistrement du Podcast Bigdata Hebdo en Live",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85054/enregistrement-du-podcast-bigdata-hebdo-en-live-",
+    "lang": "fr",
+    "roast": "Podcast Bigdata Hebdo en live : si les animateurs tiennent l'heure, c'est que quelqu'un a coupé le micro à un data engineer."
+  },
+  {
+    "id": 85057,
+    "title": "BoF Paris Scala User Group: REX - Loom en Scala 3, 3 ans après",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85057/bof-paris-scala-user-group-rex-loom-en-scala-3-3-ans-aprs",
+    "lang": "fr",
+    "roast": "Loom en Scala 3, 3 ans après : la seule JVM où l'on peut combiner `Future`, `IO`, `ZIO`, virtual threads, et une migraine."
+  },
+  {
+    "id": 85071,
+    "title": "GitHub Actions : une bombe à retardement pour la supply chain security",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85071/github-actions-une-bombe-retardement-pour-la-supply-chain-security",
+    "lang": "fr",
+    "roast": "GitHub Actions : une bombe à retardement. Et vous venez de lui donner votre `GITHUB_TOKEN` avec droits admin."
+  },
+  {
+    "id": 85073,
+    "title": "Déployer d'abord, sécuriser jamais: l’IA entre productivité et chaos de sécurité",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85073/dployer-dabord-scuriser-jamais-lia-entre-productivit-et-chaos-de-scurit",
+    "lang": "fr",
+    "roast": "Déployer d'abord, sécuriser jamais : stratégie inavouée des 70% de startups. La 31e étant celle de ce talk."
+  },
+  {
+    "id": 85088,
+    "title": "Cache-moi si tu peux : patterns et pièges du cache en production",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85088/cachemoi-si-tu-peux-patterns-et-piges-du-cache-en-production",
+    "lang": "fr",
+    "roast": "Cache en prod : il résout 99% des problèmes et crée les 1% les plus intéressants."
+  },
+  {
+    "id": 85089,
+    "title": "Sécurisez vos prototypes avec OAuth2-Proxy et Anubis",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85089/scurisez-vos-prototypes-avec-oauth2proxy-et-anubis",
+    "lang": "fr",
+    "roast": "OAuth2-Proxy + Anubis : une façon moderne de rajouter une page de login à un truc qui n'aurait jamais dû être exposé."
+  },
+  {
+    "id": 85092,
+    "title": "SVG et IA générative : comment repenser l’image interactive sur son site web",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85092/svg-et-ia-gnrative-comment-repenser-limage-interactive-sur-son-site-web",
+    "lang": "fr",
+    "roast": "SVG + IA générative : repenser l'image interactive. Ou comment régénérer l'image interactive à chaque reload, parce que c'est plus simple."
+  },
+  {
+    "id": 85096,
+    "title": "Listen to Production the Way It Deserves",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/85096/listen-to-production-the-way-it-deserves",
+    "lang": "en",
+    "roast": "Listen to production : votre prod vous parle. Ce sont surtout des cris étouffés, mais c'est un début."
+  },
+  {
+    "id": 91501,
+    "title": "Le futur du logiciel libre pour toi, moi et... les IAs",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/91501/le-futur-du-logiciel-libre-pour-toi-moi-et-les-ias",
+    "lang": "fr",
+    "roast": "Le futur du libre face à l'IA : pour l'instant, le libre fournit les données d'entraînement, et l'IA fournit les licences compliquées."
+  },
+  {
+    "id": 91504,
+    "title": "Tests end-to-end d’API générés par IA : un retour d’expérience en refonte legacy",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/91504/tests-endtoend-dapi-gnrs-par-ia-un-retour-dexprience-en-refonte-legacy",
+    "lang": "fr",
+    "roast": "Tests E2E d'API générés par IA : vous gagnez 40% du temps d'écriture, et vous le reperdez à debugger des assertions hallucinées."
+  },
+  {
+    "id": 91513,
+    "title": "Explorer en profondeur un domaine en explorant les publications scientifiques",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/91513/explorer-en-profondeur-un-domaine-en-explorant-les-publications-scientifiques",
+    "lang": "fr",
+    "roast": "Explorer les publications scientifiques pour apprendre : la méthode rigoureuse, après avoir essayé Twitter, Reddit, et « mon pote m'a dit »."
+  },
+  {
+    "id": 91515,
+    "title": "CEL? Encore un autre langage d'expression?!",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/91515/cel-encore-un-autre-langage-dexpression",
+    "lang": "fr",
+    "roast": "CEL — encore un DSL. Parce qu'un YAML avec des conditions, ce n'est pas assez. Il faut un YAML avec des conditions dans des strings."
+  },
+  {
+    "id": 91525,
+    "title": "Comment le protocole BGP fait fonctionner Internet —et peut le faire disparaître",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/91525/comment-le-protocole-bgp-fait-fonctionner-internet-et-peut-le-faire-disparatre",
+    "lang": "fr",
+    "roast": "BGP : le protocole qui fait tourner Internet… et qui, un mardi matin, fait disparaître Facebook pendant 6 heures."
+  },
+  {
+    "id": 91531,
+    "title": "Découvrir Linux au travers de l'analyse forensique de RAM",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/91531/dcouvrir-linux-au-travers-de-lanalyse-forensique-de-ram",
+    "lang": "fr",
+    "roast": "Forensique RAM : l'autopsie de votre laptop, en espérant qu'il n'y ait pas trop de mots de passe en clair."
+  },
+  {
+    "id": 106201,
+    "title": "Astérix et les irréductibles positifs au service des communautés de pratique",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/106201/astrix-et-les-irrductibles-positifs-au-service-des-communauts-de-pratique",
+    "lang": "fr",
+    "roast": "Astérix et les communautés de pratique : un village qui résiste à l'uniformisation par Slack channels. Le magic potion, c'est le café."
+  },
+  {
+    "id": 114351,
+    "title": "Gouvernance partagée & équipe IT : ce qu’on a gardé, abandonné et appris",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/114351/gouvernance-partage-quipe-it-ce-quon-a-gard-abandonn-et-appris",
+    "lang": "fr",
+    "roast": "Gouvernance partagée en IT : ce qu'on a gardé (peu), abandonné (beaucoup), appris (bravo). Spoiler final : il faudra tout recommencer."
+  },
+  {
+    "id": 114353,
+    "title": "Construire des agents IA en Kotlin avec Koog",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/114353/construire-des-agents-ia-en-kotlin-avec-koog",
+    "lang": "fr",
+    "roast": "Des agents IA en Kotlin avec Koog : parce que Java, Python et TypeScript ne suffisaient pas. Il fallait aussi Kotlin."
+  },
+  {
+    "id": 138301,
+    "title": "Les échecs à l’ère de l’intelligence artificielle",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/138301/les-checs-lre-de-lintelligence-artificielle",
+    "lang": "fr",
+    "roast": "Les échecs à l'ère de l'IA : Stockfish reste imbattable, mais au moins il ne produit pas de PR GitHub hallucinée."
+  },
+  {
+    "id": 148101,
+    "title": "Bearer of Good News",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/148101/bearer-of-good-news",
+    "lang": "en",
+    "roast": "Bearer of Good News : un titre optimiste dans un line-up dominé par la cybersécurité. Profitons-en."
+  },
+  {
+    "id": 148102,
+    "title": "The Anatomy of Memory in Humans and AI Agents",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/148102/the-anatomy-of-memory-in-humans-and-ai-agents",
+    "lang": "en",
+    "roast": "The Anatomy of Memory in Humans and AI Agents : spoiler — la vôtre marche mieux après un café, celle de l'agent après un `--clear-history`."
+  },
+  {
+    "id": 149101,
+    "title": "L’IA sur le terrain : l’humain au cœur de la valeur",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/149101/lia-sur-le-terrain-lhumain-au-cur-de-la-valeur",
+    "lang": "fr",
+    "roast": "L'IA sur le terrain, l'humain au cœur : ou comment expliquer à votre direction que le RAG ne remplacera pas Jocelyne à l'accueil."
+  },
+  {
+    "id": 149102,
+    "title": "Le développeur face à l'IA : du prototypage rapide à la fin des intermédiaires ?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/149102/le-dveloppeur-face-lia-du-prototypage-rapide-la-fin-des-intermdiaires-",
+    "lang": "fr",
+    "roast": "Du prototypage rapide à la fin des intermédiaires : le dev qui disait « jamais ils ne supprimeront mon métier » code maintenant des agents pour ses successeurs."
+  },
+  {
+    "id": 149103,
+    "title": "L'IA au défi de la condition humaine",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/149103/lia-au-dfi-de-la-condition-humaine",
+    "lang": "fr",
+    "roast": "L'IA au défi de la condition humaine : on attendait la philo, on a eu Hacker News, et un peu de Camus."
+  },
+  {
+    "id": 149104,
+    "title": "La course à l’IA : La France risque-t-elle de devenir un \"territoire servant\"?",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/149104/la-course-lia-la-france-risquetelle-de-devenir-un-territoire-servant",
+    "lang": "fr",
+    "roast": "La France, territoire servant de l'IA ? Ironique pour un talk à Devoxx, conférence 100% souveraine sauf pour Slack, AWS et OpenAI."
+  },
+  {
+    "id": 149105,
+    "title": "L’IA au service du bien commun : Agir avec raison dans l'incertain",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/149105/lia-au-service-du-bien-commun-agir-avec-raison-dans-lincertain",
+    "lang": "fr",
+    "roast": "L'IA au service du bien commun : espérons que le bien commun ait un bon prompt, sinon on sert surtout les GAFAM."
+  },
+  {
+    "id": 149106,
+    "title": "Tatouage numérique pour l'IA générative",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/149106/tatouage-numrique-pour-lia-gnrative",
+    "lang": "fr",
+    "roast": "Tatouer les contenus générés : l'IA sait watermarker ses œuvres. Mais pas les distinguer des vôtres. Progrès."
+  },
+  {
+    "id": 149107,
+    "title": "Another Brick in the WAL – Pourquoi la vitesse ne rime plus avec RAM",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/149107/another-brick-in-the-wal-pourquoi-la-vitesse-ne-rime-plus-avec-ram",
+    "lang": "fr",
+    "roast": "WAL + vitesse + RAM : le triptyque qui fait dormir les DBAs, et tenir éveillés les architectes cloud."
+  },
+  {
+    "id": 152201,
+    "title": "Meet the OpenSearch Project Community - Rencontre de la communauté OpenSearch",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/152201/meet-the-opensearch-project-community-rencontre-de-la-communaut-opensearch",
+    "lang": "en",
+    "roast": "OpenSearch : Elasticsearch après la brouille. Même requêtes, même Lucene, ambiance gardée à l'amiable."
+  },
+  {
+    "id": 153851,
+    "title": "Dev With AI Meetup - L'avenir des développeurs",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/153851/dev-with-ai-meetup-lavenir-des-dveloppeurs",
+    "lang": "fr",
+    "roast": "Dev With AI Meetup — L'avenir des devs : des prédictions récurrentes de disparition, suivies d'une hausse des salaires. Curieux."
+  },
+  {
+    "id": 155301,
+    "title": "IA for Fun : le meilleur de l’IA au service du n’importe quoi",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/155301/ia-for-fun-le-meilleur-de-lia-au-service-du-nimporte-quoi",
+    "lang": "fr",
+    "roast": "IA for Fun, le n'importe quoi : enfin un talk honnête sur le vrai taux d'utilité de 80% des démos IA."
+  },
+  {
+    "id": 155451,
+    "title": "Steel for Vulnerabilities, Silver for Zombies: Hunting Java's Unseen Monsters",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/155451/steel-for-vulnerabilities-silver-for-zombies-hunting-javas-unseen-monsters",
+    "lang": "en",
+    "roast": "Unseen Java monsters : CVEs de dépendances transitives dormantes, zombies NPE, et ghost builds. Halloween toute l'année."
+  },
+  {
+    "id": 158051,
+    "title": "La boite à outils tech : l’écosystème BPCE qui simplifie la vie du développeur",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/158051/la-boite-outils-tech-lcosystme-bpce-qui-simplifie-la-vie-du-dveloppeur",
+    "lang": "fr",
+    "roast": "La boîte à outils interne BPCE : tout ce que vos devs réclamaient, enfin livré, avec un SLA conforme à la réalité bancaire."
+  },
+  {
+    "id": 158701,
+    "title": "Une approche bottom-up pour la construction d'une taxonomie produit",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/158701/une-approche-bottomup-pour-la-construction-dune-taxonomie-produit",
+    "lang": "fr",
+    "roast": "Construire une taxonomie produit bottom-up : parce que top-down, c'est un tableau Excel que personne ne relit."
+  },
+  {
+    "id": 158702,
+    "title": "RUST Paris Meetup",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/158702/rust-paris-meetup",
+    "lang": "fr",
+    "roast": "RUST Paris Meetup : venez pour le borrow checker, restez parce que vous n'avez pas le choix, il ne vous laisse pas partir."
+  },
+  {
+    "id": 160251,
+    "title": "Café Philoxx édition 2026",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/160251/caf-philoxx-dition-2026",
+    "lang": "fr",
+    "roast": "Café Philoxx : le seul endroit à Devoxx où « est-ce que l'IA a une âme ? » est une question qu'on pose sérieusement après le deuxième espresso."
+  },
+  {
+    "id": 161701,
+    "title": "Comment Harness a aidé Docaposte à sécuriser code et supply chain",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/161701/comment-harness-a-aid-docaposte-scuriser-code-et-supply-chain",
+    "lang": "fr",
+    "roast": "Docaposte + Harness : parce qu'une supply chain française, c'est une supply chain, mais avec plus de réunions."
+  },
+  {
+    "id": 161702,
+    "title": "AI Security, from PoC to production",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/161702/ai-security-from-poc-to-production",
+    "lang": "fr",
+    "roast": "AI Security, du PoC à la prod : entre les deux, il y a 9 mois, 3 pentests, et un RSSI en reconversion."
+  },
+  {
+    "id": 162101,
+    "title": "Meet with an OSS project: OpenFeature & GO Feature Flag",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/162101/meet-with-an-oss-project-openfeature-go-feature-flag",
+    "lang": "fr",
+    "roast": "OpenFeature & GO Feature Flag : le meetup OSS où l'on apprend que même les flags ont besoin de leur propre flag."
+  },
+  {
+    "id": 162102,
+    "title": "The evolution of Software engineering",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/162102/the-evolution-of-software-engineering-",
+    "lang": "fr",
+    "roast": "The evolution of Software Engineering : 60 ans, du COBOL aux LLMs. Et Emacs qui survit à tout."
+  },
+  {
+    "id": 163351,
+    "title": "Meet with Docker",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/163351/meet-with-docker",
+    "lang": "fr",
+    "roast": "Meet with Docker : l'occasion de demander pourquoi `docker login` demande encore un mot de passe au lieu d'une passkey."
+  },
+  {
+    "id": 163352,
+    "title": "Meet with OpenRewrite",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/163352/meet-with-openrewrite",
+    "lang": "en",
+    "roast": "Meet with OpenRewrite : enfin un outil qui refactorise votre code legacy pendant que vous réécrivez sa documentation à la main."
+  },
+  {
+    "id": 164851,
+    "title": "BOF GoLang",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/164851/bof-golang",
+    "lang": "fr",
+    "roast": "BOF GoLang : 90 minutes à débattre de `if err != nil` en sachant que personne ne changera d'avis."
+  },
+  {
+    "id": 165201,
+    "title": "Meet with TamboUI",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/165201/meet-with-tamboui",
+    "lang": "en",
+    "roast": "Meet with TamboUI : pour les nostalgiques qui pensaient que `ncurses` méritait un second souffle. Ils avaient raison."
+  },
+  {
+    "id": 165202,
+    "title": "Meet with Quarkus",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/165202/meet-with-quarkus",
+    "lang": "fr",
+    "roast": "Meet with Quarkus : supersonic, subatomic, et toujours plus léger que votre Spring Boot. Mais aussi plus jeune, donc plus de bugs rigolos."
+  },
+  {
+    "id": 165203,
+    "title": "Meet with Spring",
+    "url": "https://m.devoxx.com/events/devoxxfr2026/talks/165203/meet-with-spring",
+    "lang": "fr",
+    "roast": "Meet with Spring : 22 ans plus tard, on explique encore ce qu'est un `@Autowired`. Et ça marche."
+  }
+]
